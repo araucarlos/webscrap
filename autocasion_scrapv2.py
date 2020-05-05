@@ -32,7 +32,6 @@ for page in pages:
         driver.get(urlv2)
         html_source = driver.page_source
         soup2 = BeautifulSoup(html_source, 'html.parser')
-        #Result2=[soup2.find('div', {'class': "precio"}).text.strip().encode('utf-8')]
         soup3=soup2.find('ul', {'class': "datos-basicos-ficha"})
         for ad3 in soup3.find_all('span'):
             Result2=Result2+[ad3.text.strip().encode('utf-8')] 
