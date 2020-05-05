@@ -41,7 +41,7 @@ for page in pages:
 driver.quit()
 df=pd.DataFrame(Result)
 
-#reprocesing
+#preprocesing
 
 
 tf=df
