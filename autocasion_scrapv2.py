@@ -17,7 +17,7 @@ import re
 
 Result=[]
 driver = webdriver.Chrome()
-pages = np.arange(1, 2, 1)
+pages = np.arange(1, 5, 1)
 
 for page in pages:
     
@@ -46,28 +46,69 @@ df=pd.DataFrame(Result)
 tf=df
 tf=tf.drop(columns=[2,4,6,8,10,12,14,16,18])
 tf.columns=["Vehiculo","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Color","Distintivo ambiental"]
+tf["Marca"]=""
+tf["Modelo"]=""
+tf["Version"]=""
+tf["Traccion"]=""
+column_names = ["Vehiculo", "Marca", "Modelo","Version","Traccion","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Color","Distintivo ambiental"]
+tf = tf.reindex(columns=column_names)
+
 
 for i, row in tf.iterrows():
-
-    if type(row[1])==float:
+    row[1]="NISSAN"
+    if "qashqai" in row[0].lower():
+        row[2]="Qasqhai"
+    elif "x-trail" in row[0].lower():
+        row[2]="X-Trail"
+    elif "juke" in row[0].lower():
+        row[2]="Juke"  
+    elif "micra" in row[0].lower():
+        row[2]="Micra"
+    elif "leaf" in row[0].lower():
+        row[2]="Leaf"
+    elif "pulsar" in row[0].lower():
+        row[2]="Pulsar" 
+    elif "note" in row[0].lower():
+        row[2]="Note"
+    elif "navara" in row[0].lower():
+        row[2]="Navara"
+    elif "murano" in row[0].lower():
+        row[2]="Murano"  
+    else:
+        row[2]=""
+    if "visia" in row[0].lower():
+        row[3]="Visia"
+    elif "acenta" in row[0].lower():
+        row[3]="Acenta"
+    elif "n-connecta" in row[0].lower():
+        row[3]="N-Connecta"
+    elif "tekna" in row[0].lower():
+        row[3]="Tekna"
+    else:
+        row[3]=""
+    if "4x4" in row[0]:
+        row[4]="4x4"
+    else:
+        row[4]="4x2"   
+    if type(row[5])==float:
         pass
     else: 
-        row[1]=row[1].strip("\xe2\x82\xac")
-        row[1]=row[1].strip(" ")
-        row[1]=float(row[1])*1000
-    row[4]=row[4].strip("km")
-    row[4]=row[4].strip(" ")
-    row[4]=row[4].replace(".","")
-    row[4]=float(row[4])
-    row[7]=float(row[7])
-    if row[8]=="Sí":
+        row[5]=row[5].strip("\xe2\x82\xac")
+        row[5]=row[5].strip(" ")
+        row[5]=float(row[5])*1000
+    row[8]=row[8].strip("km")
+    row[8]=row[8].strip(" ")
+    row[8]=row[8].replace(".","")
+    row[8]=float(row[8])
+    row[11]=float(row[11])
+    if row[12]=="Sí":
         pass
-    elif row[8]=="No":
-        row[8]=float(0)
+    elif row[12]=="No":
+        row[12]=float(0)
     else:
-        row[8]=row[8].strip("meses")
-        row[8]=row[8].strip(" ")
-        row[8]=float(row[8])
+        row[12]=row[12].strip("meses")
+        row[12]=row[12].strip(" ")
+        row[12]=float(row[12])
 
 tf.to_csv('autocasion.csv', encoding='utf-8')
 
