@@ -14,13 +14,14 @@ from datetime import datetime
 import pandas as pd
 import numpy as np
 import re
+import matplotlib as plt
+
 
 Result=[]
 driver = webdriver.Chrome()
 pages = np.arange(1, 5, 1)
 
-for page in pages:
-    
+for page in pages:     
     url="https://www.autocasion.com/coches-segunda-mano/nissan-ocasion?page="+str(page)
     driver.get(url)
     html_source = driver.page_source
@@ -36,7 +37,7 @@ for page in pages:
         for ad3 in soup3.find_all('span'):
             Result2=Result2+[ad3.text.strip().encode('utf-8')] 
         Result=Result+[Result2]
-    
+        
 driver.quit()
 df=pd.DataFrame(Result)
 
@@ -57,7 +58,7 @@ tf = tf.reindex(columns=column_names)
 for i, row in tf.iterrows():
     row[1]="NISSAN"
     if "qashqai" in row[0].lower():
-        row[2]="Qasqhai"
+        row[2]="Qashqai"
     elif "x-trail" in row[0].lower():
         row[2]="X-Trail"
     elif "juke" in row[0].lower():
@@ -101,6 +102,10 @@ for i, row in tf.iterrows():
     row[8]=row[8].replace(".","")
     row[8]=float(row[8])
     row[11]=float(row[11])
+    if len(row[6])==4:
+        row[6]="01/"+row[6]
+    else:
+        pass
     if row[12]=="Sí":
         pass
     elif row[12]=="No":
@@ -109,6 +114,9 @@ for i, row in tf.iterrows():
         row[12]=row[12].strip("meses")
         row[12]=row[12].strip(" ")
         row[12]=float(row[12])
+
+tf['Fecha matriculacion']=pd.to_datetime(tf['Fecha matriculacion'], format='%m/%Y')
+tf['Meses']=((pd.to_datetime("today")- tf['Fecha matriculacion'])/np.timedelta64(1, 'M')).astype('int')
 
 tf.to_csv('autocasion.csv', encoding='utf-8')
 
