@@ -1,0 +1,626 @@
+,Vehiculo,Marca,Modelo,Version,Traccion,Precio,Fecha matriculacion,Combustible,km,Carroceria,Cambio,Potencia,Garantia,Color,Distintivo ambiental,Meses
+0,NISSAN Leaf Tekna,NISSAN,Leaf,Tekna,4x2,11060.0,2014-06-01,Eléctrico,33570.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,71
+1,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,15900.0,2016-06-01,Diesel,99900.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,47
+2,NISSAN Micra 1.2 Naru Edition,NISSAN,Micra,,4x2,6200.0,2017-02-01,Gasolina,73064.0,Berlina,Manual,80.0,24.0,Plata,C,39
+3,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,11410.0,2017-11-01,Gasolina,44339.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,30
+4,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 117kW,NISSAN,Qashqai,Acenta,4x2,20900.0,2019-03-01,Gasolina,39641.0,Todo Terreno,Manual,160.0,12.0,Gris,C,14
+5,NISSAN Qashqai 1.5dCi Tekna Premium 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,7990.0,2011-01-01,Diesel,200000.0,Todo Terreno,Manual,106.0,12.0,Blanco,B,112
+6,NISSAN Juke 1.6i Acenta,NISSAN,Juke,Acenta,4x2,8800.0,2010-01-01,Gasolina,100366.0,Todo Terreno,Manual,117.0,12.0,Negro                 / Metalizado,C,124
+7,NISSAN Micra 1.0 DIG-T ACENTA 86KW 117 5P,NISSAN,Micra,Acenta,4x2,13500.0,2019-11-01,Gasolina,10.0,Berlina mediana o grande,Manual,117.0,0.0,-,C,6
+8,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 DCT 117kW,NISSAN,Qashqai,N-Connecta,4x2,21800.0,2019-02-01,Gasolina,45426.0,Todo Terreno,Automático,160.0,12.0,Blanco,C,15
+9,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14900.0,2015-01-01,Diesel,82562.0,Todo Terreno,Manual,110.0,12.0,Negro                 / Metalizado,C,64
+10,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,10990.0,2017-04-01,Diesel,46300.0,Todo Terreno,Manual,110.0,Sí,Plata,C,37
+11,NISSAN Leaf Tekna,NISSAN,Leaf,Tekna,4x2,11060.0,2014-06-01,Eléctrico,33570.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,71
+12,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,13280.0,2016-11-01,Diesel,87688.0,Todo Terreno,Manual,110.0,12.0,Gris,C,42
+13,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16550.0,2018-06-01,Gasolina,17544.0,Todo Terreno,Manual,115.0,18.0,Negro,C,23
+14,NISSAN Qashqai Berlina 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,16810.0,2019-06-01,Gasolina,9487.0,Berlina mediana o grande,Manual,140.0,24.0,Negro,C,11
+15,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14160.0,2017-08-01,Eléctrico,21521.0,Berlina,Automático,109.0,12.0,Blanco                 / Metalizado,0 EMISIONES,33
+16,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16810.0,2018-06-01,Gasolina,16405.0,Todo Terreno,Manual,115.0,18.0,Plata,C,23
+17,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16810.0,2018-06-01,Gasolina,12189.0,Todo Terreno,Manual,115.0,18.0,Gris,C,23
+18,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14420.0,2017-03-01,Gasolina,77842.0,Todo Terreno,Manual,115.0,12.0,Negro,C,38
+19,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14420.0,2017-03-01,Gasolina,74523.0,Todo Terreno,Manual,115.0,12.0,Negro,C,38
+20,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,11940.0,2017-03-01,Diesel,36110.0,Todo Terreno,Manual,110.0,24.0,Negro,C,38
+21,NISSAN Juke 1.2 DIG-T GT Sport Playstation 4x2 115,NISSAN,Juke,,4x2,14900.0,2018-01-01,Gasolina,36676.0,Todo Terreno,Manual,115.0,18.0,ultramar                 / Metalizado,C,28
+22,NISSAN Leaf Tekna 30KWh,NISSAN,Leaf,Tekna,4x2,14160.0,2016-09-01,Eléctrico,67232.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,44
+23,NISSAN Micra IG-T Acenta 100,NISSAN,Micra,Acenta,4x2,13000.0,2020-01-01,Gasolina,5.0,Berlina,Manual,100.0,36.0,NARANJA                 / Metalizado,C,4
+24,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16550.0,2018-06-01,Gasolina,21758.0,Todo Terreno,Manual,115.0,18.0,Plata,C,23
+25,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,11800.0,2017-02-01,Diesel,79000.0,Todo Terreno,Manual,110.0,12.0,Negro,C,39
+26,NISSAN 370Z  Pack *NAVEGADOR *BIXENON *CRUISE,NISSAN,,,4x2,23900.0,2011-03-01,Gasolina,108900.0,Deportivo o coupé,Manual,330.0,12.0,Negro,C,110
+27,NISSAN Pulsar 1.2 DIG-T Sport Edition,NISSAN,Pulsar,,4x2,10970.0,2018-01-01,Gasolina,30123.0,Berlina,Manual,115.0,12.0,Blanco,C,28
+28,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16550.0,2018-06-01,Gasolina,18527.0,Todo Terreno,Manual,115.0,18.0,Plata,C,23
+29,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2019-06-01,Gasolina,33157.0,Todo Terreno,Manual,140.0,12.0,Azul,C,11
+30,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16810.0,2018-06-01,Gasolina,14605.0,Todo Terreno,Manual,115.0,18.0,Gris,C,23
+31,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14160.0,2016-09-01,Eléctrico,60600.0,Berlina,Automático,109.0,12.0,Rojo                 / Metalizado,0 EMISIONES,44
+32,NISSAN Juke 1.2 DIG-T Tekna 4x2 115,NISSAN,Juke,Tekna,4x2,17900.0,2018-10-01,Gasolina,9373.0,Todo Terreno,Automático,115.0,18.0,perlado                 / Metalizado,C,19
+33,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,21000.0,2019-07-01,Diesel,20.0,Todo Terreno,Manual,115.0,36.0,-,C,10
+34,NISSAN Qashqai 1.5 DCI N-CONNECTA 85KW 115 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-04-01,Diesel,9500.0,Berlina mediana o grande,Manual,115.0,0.0,Rojo Fusion Metalizado,C,13
+35,NISSAN X-Trail 1.7 DCI N-CONNECTA CVT 110KW 150 5P,NISSAN,X-Trail,N-Connecta,4x2,27900.0,2019-12-01,Diesel,10.0,"4x4, SUV o pickup",Automático,150.0,0.0,-,C,5
+36,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14160.0,2016-09-01,Eléctrico,61195.0,Berlina,Automático,109.0,12.0,Gris                 / Metalizado,0 EMISIONES,44
+37,NISSAN X-Trail 1.6 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,15920.0,2017-03-01,Diesel,59935.0,Todo Terreno,Manual,130.0,12.0,Plata,C,38
+38,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,10610.0,2018-08-01,Gasolina,25110.0,Berlina,Manual,90.0,18.0,Blanco,C,21
+39,NISSAN Micra 1.5dCi S&S Tekna 90,NISSAN,Micra,Tekna,4x2,15900.0,2018-04-01,Diesel,0.0,Berlina,Manual,90.0,0.0,-,C,25
+40,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17400.0,2018-06-01,Gasolina,26031.0,Todo Terreno,Manual,115.0,Sí,-,C,23
+41,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15040.0,2017-01-01,Gasolina,31420.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,40
+42,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,13190.0,2016-03-01,Diesel,93403.0,Todo Terreno,Manual,110.0,12.0,Azul,C,50
+43,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-05-01,Gasolina,5506.0,Todo Terreno,Manual,140.0,24.0,-,C,12
+44,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16550.0,2018-06-01,Gasolina,18855.0,Todo Terreno,Manual,115.0,18.0,Gris,C,23
+45,NISSAN Juke 1.6 83KW N-CONNECTA CVT 112 5P,NISSAN,Juke,N-Connecta,4x2,13900.0,2019-04-01,Gasolina,9900.0,"4x4, SUV o pickup",Automático,112.0,0.0,BLANCO PERLADO,C,13
+46,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16630.0,2018-06-01,Gasolina,16866.0,Todo Terreno,Manual,115.0,18.0,Negro,C,23
+47,NISSAN Leaf Tekna 30KWh,NISSAN,Leaf,Tekna,4x2,14160.0,2016-11-01,Eléctrico,38592.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,42
+48,NISSAN Juke Todoterreno 110cv Manual de 5 Puertas,NISSAN,Juke,,4x2,7900.0,2011-06-01,Diesel,115000.0,"4x4, SUV o pickup",Manual,110.0,12.0,Gris,B,107
+49,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,10990.0,2018-05-01,Gasolina,31241.0,Berlina,Manual,90.0,12.0,Gunmetal Grey (metalizado),C,24
+50,NISSAN Leaf Berlina 109cv Automático de 5 Puertas,NISSAN,Leaf,,4x2,11120.0,2012-06-01,Eléctrico,52025.0,Berlina mediana o grande,Automático,109.0,12.0,BLANCO,0 EMISIONES,95
+51,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,18900.0,2019-08-01,Gasolina,22000.0,Todo Terreno,Manual,140.0,24.0,Gris                 / Metalizado,C,9
+52,NISSAN Murano 2.5dCi Tekna Premium Aut.,NISSAN,Murano,Tekna,4x2,12850.0,2012-05-01,Diesel,220000.0,Todo Terreno,Automático,190.0,12.0,Blanco,B,96
+53,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,15390.0,2015-01-01,Gasolina,54066.0,Todo Terreno,Manual,115.0,12.0,Gris Plata,C,64
+54,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18500.0,2018-06-01,Gasolina,10901.0,Todo Terreno,Manual,115.0,36.0,-,C,23
+55,NISSAN Juke DIG-T EU6 85 kW (115 CV) 6M/T ACENTA,NISSAN,Juke,Acenta,4x2,11500.0,2017-08-01,Gasolina,18901.0,"4x4, SUV o pickup",Manual,115.0,36.0,Rojo Fusión Metalizado,C,33
+56,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,20000.0,2019-10-01,Gasolina,20.0,Todo Terreno,Manual,140.0,36.0,-,C,7
+57,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,20600.0,2019-07-01,Diesel,3500.0,Todo Terreno,Manual,115.0,36.0,-,C,10
+58,NISSAN Qashqai 1.2 DIG-T N-CONNECTA 115 5P,NISSAN,Qashqai,N-Connecta,4x2,15750.0,2018-06-01,Gasolina,24150.0,Berlina mediana o grande,Manual,115.0,0.0,NEGRO ZAINO,C,23
+59,NISSAN Micra IG-T Acenta 100,NISSAN,Micra,Acenta,4x2,11500.0,2019-01-01,Gasolina,30710.0,Berlina,Manual,100.0,12.0,Gris                 / Metalizado,C,16
+60,NISSAN Qashqai 1.6dCi Tekna 4x4-i,NISSAN,Qashqai,Tekna,4x4,14950.0,2016-11-01,Diesel,75900.0,Todo Terreno,Manual,130.0,24.0,Blanco,C,42
+61,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18400.0,2017-08-01,Diesel,14404.0,Todo Terreno,Manual,130.0,Sí,-,C,33
+62,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,10900.0,2012-05-01,Diesel,116591.0,Todo Terreno,Manual,110.0,12.0,-,B,96
+63,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17400.0,2018-05-01,Gasolina,23186.0,Todo Terreno,Manual,115.0,Sí,-,C,24
+64,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,20400.0,2019-12-01,Gasolina,8.0,Todo Terreno,Manual,140.0,36.0,ROJO VOLCAN                 / Metalizado,C,5
+65,NISSAN Micra IG-T S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,10500.0,2017-04-01,Gasolina,42000.0,Berlina,Manual,90.0,12.0,Negro                 / Metalizado,C,37
+66,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12000.0,2018-03-01,Gasolina,28457.0,Berlina,Manual,115.0,12.0,BLANCO                 / Metalizado,C,26
+67,NISSAN Qashqai Q+2 1.6 S&S Tekna Sport Chrome 4x2,NISSAN,Qashqai,Tekna,4x2,10900.0,2012-05-01,Gasolina,93000.0,Todo Terreno,Manual,117.0,12.0,Negro Metalizado,C,96
+68,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13970.0,2015-01-01,Gasolina,89600.0,Todo Terreno,Manual,115.0,12.0,Gris                 / Metalizado,C,64
+69,NISSAN Qashqai Pequeño 110cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,16199.0,2017-09-01,Diesel,42684.0,Pequeño,Manual,110.0,12.0,Gris,C,32
+70,NISSAN Qashqai  dCi 85 kW (115 CV) E6D ACENTA,NISSAN,Qashqai,Acenta,4x2,15300.0,2018-07-01,Diesel,22379.0,Berlina mediana o grande,Manual,115.0,36.0,Blanco Perlado (metalizado),C,22
+71,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,11510.0,2016-03-01,Diesel,60817.0,Todo Terreno,Manual,110.0,12.0,Amarillo,C,50
+72,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,17000.0,2017-01-01,Diesel,41000.0,Todo Terreno,Manual,110.0,12.0,Azul                 / Metalizado,C,40
+73,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,10990.0,2018-03-01,Gasolina,21924.0,Berlina,Manual,90.0,10.0,Platinum Silver (metalizado),C,26
+74,NISSAN Qashqai 1.6dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,12500.0,2015-03-01,Diesel,121000.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,62
+75,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,22400.0,2018-10-01,Diesel,754.0,Todo Terreno,Manual,115.0,24.0,BLANCO                 / Metalizado,C,19
+76,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,11900.0,2017-06-01,Gasolina,32000.0,Todo Terreno,Manual,115.0,0.0,Amarillo,C,35
+77,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,29500.0,2019-01-01,Eléctrico,8687.0,Berlina,Automático,150.0,36.0,Blanco                 / Metalizado,0 EMISIONES,16
+78,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,10450.0,2017-12-01,Gasolina,22500.0,Berlina,Manual,90.0,12.0,Gris                 / Metalizado,C,29
+79,NISSAN Qashqai Q+2 1.5dCi 360 4x2,NISSAN,Qashqai,,4x2,9300.0,2013-04-01,Diesel,152500.0,Todo Terreno,Manual,110.0,12.0,Gris,B,85
+80,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14900.0,2017-04-01,Diesel,44000.0,Todo Terreno,Manual,110.0,12.0,-,C,37
+81,NISSAN GT-R 3.8 V6 570 Track Edition by NISMO Aut.,NISSAN,,,4x2,98000.0,2018-01-01,Gasolina,6900.0,Coupe,Automático,570.0,12.0,perla                 / Metalizado,C,28
+82,NISSAN Qashqai 1.5 DCI N-CONNECTA 110 5P,NISSAN,Qashqai,N-Connecta,4x2,13750.0,2016-05-01,Diesel,90000.0,Berlina mediana o grande,Manual,110.0,12.0,NEGRO ZAINO                 / Metalizado,C,48
+83,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19500.0,2018-05-01,Gasolina,5500.0,Todo Terreno,Manual,115.0,24.0,GRIS METAL,C,24
+84,NISSAN Qashqai 1.6dCi Tekna+ 4x2,NISSAN,Qashqai,Tekna,4x2,21990.0,2018-05-01,Diesel,19500.0,Todo Terreno,Manual,130.0,16.0,Azul,C,24
+85,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-02-01,Gasolina,29500.0,Berlina mediana o grande,Manual,140.0,0.0,Gris Metalizado,C,15
+86,NISSAN Qashqai 1.2 DIG-T Tekna 4x2,NISSAN,Qashqai,Tekna,4x2,20300.0,2017-08-01,Gasolina,11700.0,Todo Terreno,Manual,115.0,12.0,GRIS METALIZADO,C,33
+87,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,15900.0,2016-09-01,Diesel,60715.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,44
+88,NISSAN Qashqai 1.6dCi Visia 4x2,NISSAN,Qashqai,Visia,4x2,13990.0,2015-06-01,Diesel,113956.0,Todo Terreno,Manual,130.0,12.0,Gris plomo,C,59
+89,NISSAN Pulsar 1.5 dCi Tekna,NISSAN,Pulsar,Tekna,4x2,12000.0,2017-03-01,Diesel,68150.0,Berlina,Manual,110.0,15.0,Negro,C,38
+90,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,11900.0,2017-03-01,Gasolina,42000.0,Todo Terreno,Manual,115.0,12.0,Blanco S?lido,C,38
+91,NISSAN X-Trail 1.7 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,25900.0,2019-12-01,Diesel,10.0,Todo Terreno,Manual,150.0,34.0,Negro Diamante Metalizado                 / Metalizado,C,5
+92,NISSAN Juke 1.6i Acenta,NISSAN,Juke,Acenta,4x2,7950.0,2013-12-01,Gasolina,105000.0,Todo Terreno,Manual,117.0,24.0,Blanco,C,77
+93,NISSAN Micra 1.2 Naru Edition,NISSAN,Micra,,4x2,6250.0,2017-02-01,Gasolina,43000.0,Berlina,Manual,80.0,12.0,Blanco Iceberg S?lido,C,39
+94,NISSAN X-Trail 1.6 dCi Tekna 4x2 7 pl.,NISSAN,X-Trail,Tekna,4x2,21490.0,2017-10-01,Diesel,55290.0,Todo Terreno,Manual,130.0,12.0,Blanco                 / Metalizado,C,31
+95,NISSAN Juke 1.5dCi Tekna 4x2,NISSAN,Juke,Tekna,4x2,15200.0,2017-06-01,Diesel,30740.0,Todo Terreno,Manual,110.0,12.0,Amarillo                 / Metalizado,C,35
+96,NISSAN Qashqai 1.2 DIG-T TEKNA+ 115 5P,NISSAN,Qashqai,Tekna,4x2,18900.0,2018-02-01,Gasolina,55138.0,Berlina mediana o grande,Manual,115.0,12.0,Azul Vivid Metalizado                 / Metalizado,C,27
+97,NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,NISSAN,Juke,N-Connecta,4x2,13900.0,2017-03-01,Gasolina,56924.0,Todo Terreno,Automático,117.0,12.0,Rojo,C,38
+98,NISSAN Micra 1.2 Acenta,NISSAN,Micra,Acenta,4x2,5900.0,2014-01-01,Gasolina,108000.0,Berlina,Manual,80.0,12.0,Granate,C,76
+99,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,19500.0,2018-11-01,Gasolina,19500.0,Todo Terreno,Manual,140.0,12.0,PLATA,C,18
+100,NISSAN Qashqai Q+2 1.6dCi S&S Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,8499.0,2014-01-01,Diesel,208622.0,Todo Terreno,Manual,130.0,12.0,Negro,C,76
+101,NISSAN Micra 1.2 Acenta,NISSAN,Micra,Acenta,4x2,7500.0,2017-06-01,Gasolina,45000.0,Berlina,Manual,80.0,12.0,Rojo                 / Metalizado,C,35
+102,NISSAN Qashqai 1.6dCi S&S Tekna Premium 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,13900.0,2014-01-01,Diesel,90000.0,Todo Terreno,Manual,130.0,12.0,Gris,C,76
+103,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,28900.0,2019-09-01,Eléctrico,5587.0,Berlina,Automático,150.0,36.0,perlado bitono                 / Metalizado,0 EMISIONES,8
+104,NISSAN Qashqai 1.6 DIG-T Tekna 4x2,NISSAN,Qashqai,Tekna,4x2,16990.0,2017-06-01,Gasolina,22000.0,Todo Terreno,Manual,163.0,12.0,Negro,C,35
+105,NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,NISSAN,Juke,N-Connecta,4x2,12900.0,2018-02-01,Gasolina,35793.0,Todo Terreno,Automático,117.0,12.0,Blanco,C,27
+106,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,15900.0,2017-01-01,Diesel,59036.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,40
+107,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,17000.0,2019-02-01,Gasolina,7653.0,Todo Terreno,Manual,140.0,12.0,BLANCO PERLADO                 / Metalizado,C,15
+108,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14400.0,2017-11-01,Diesel,30531.0,Todo Terreno,Manual,110.0,12.0,Negro                 / Metalizado,C,30
+109,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10900.0,2018-02-01,Gasolina,89999.0,Todo Terreno,Manual,115.0,12.0,Gris,C,27
+110,NISSAN Qashqai 1.5dCi Tekna Sport 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,9900.0,2011-04-01,Diesel,101000.0,Todo Terreno,Manual,106.0,12.0,Gris,B,109
+111,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 140 5P,NISSAN,Qashqai,N-Connecta,4x2,19450.0,2019-06-01,Gasolina,7900.0,Berlina mediana o grande,Manual,140.0,12.0,Blanco Perlado Metalizado,C,11
+112,NISSAN X-Trail 1.6 DIG-T Tekna 4x2 7 pl.,NISSAN,X-Trail,Tekna,4x2,23900.0,2018-06-01,Gasolina,14030.0,Todo Terreno,Manual,163.0,12.0,perlado                 / Metalizado,C,23
+113,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,18900.0,2016-01-01,Diesel,102800.0,Todo Terreno,Automático,130.0,24.0,Negro                 / Metalizado,C,52
+114,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,11990.0,2015-01-01,Diesel,63972.0,Todo Terreno,Manual,110.0,12.0,Blanco                 / Metalizado,C,64
+115,NISSAN X-Trail 1.6 dCi 360 4x4-i,NISSAN,X-Trail,,4x4,15000.0,2016-07-01,Diesel,91000.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,46
+116,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14100.0,2018-01-01,Diesel,34411.0,Todo Terreno,Manual,110.0,12.0,Azul,C,28
+117,NISSAN Qashqai Q+2 2.0dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,12500.0,2010-05-01,Diesel,128000.0,Todo Terreno,Manual,150.0,0.0,Plata,B,120
+118,NISSAN X-Trail 1.6 dCi 360 4x2,NISSAN,X-Trail,,4x2,12850.0,2015-03-01,Diesel,104000.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,62
+119,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,27900.0,2018-12-01,Eléctrico,9000.0,Berlina,Automático,150.0,36.0,perlado                 / Metalizado,0 EMISIONES,17
+120,NISSAN X-Trail 1.6 dCi 360 4x2,NISSAN,X-Trail,,4x2,14900.0,2015-05-01,Diesel,63300.0,Todo Terreno,Manual,130.0,12.0,Gris,C,60
+121,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,15130.0,2018-02-01,Diesel,17946.0,Todo Terreno,Manual,110.0,12.0,Negro,C,27
+122,NISSAN X-Trail 1.3 DIG-T Tekna 4x2 DCT,NISSAN,X-Trail,Tekna,4x2,27900.0,2019-11-01,Gasolina,10.0,Todo Terreno,Automático,160.0,31.0,Plata Tecno Metalizado                 / Metalizado,C,6
+123,NISSAN Murano 3.5 V6 Aut.,NISSAN,Murano,,4x2,7900.0,2007-07-01,Gasolina,128000.0,Todo Terreno,Automático,234.0,12.0,Azul                 / Metalizado,C,154
+124,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 117kW,NISSAN,Qashqai,N-Connecta,4x2,21100.0,2019-09-01,Gasolina,1.0,Todo Terreno,Manual,160.0,36.0,Plata,C,8
+125,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10995.0,2017-12-01,Gasolina,25051.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,29
+126,NISSAN Micra 1.0 IG-T ACENTA 74KW 100 5P,NISSAN,Micra,Acenta,4x2,12900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,100.0,0.0,-,C,5
+127,NISSAN Micra IG-T Acenta 100,NISSAN,Micra,Acenta,4x2,13200.0,2018-12-01,Gasolina,18355.0,Berlina,Manual,100.0,12.0,Negro,C,17
+128,NISSAN Qashqai 1.6dCi Tekna+ 4x2,NISSAN,Qashqai,Tekna,4x2,22900.0,2017-10-01,Diesel,36201.0,Todo Terreno,Manual,130.0,12.0,AMATISTA                 / Metalizado,C,31
+129,NISSAN Qashqai 1.6dCi Tekna+ 4x2,NISSAN,Qashqai,Tekna,4x2,22900.0,2017-10-01,Diesel,36201.0,Todo Terreno,Manual,130.0,12.0,AMATISTA                 / Metalizado,C,31
+130,NISSAN Micra 1.2 N-Tec,NISSAN,Micra,,4x2,6900.0,2016-09-01,Gasolina,97000.0,Berlina,Manual,80.0,12.0,Blanco                 / Metalizado,C,44
+131,NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,NISSAN,Juke,N-Connecta,4x2,10100.0,2018-01-01,Gasolina,97000.0,Todo Terreno,Automático,117.0,24.0,Negro,C,28
+132,NISSAN Micra 1.2 N-Tec,NISSAN,Micra,,4x2,8600.0,2016-12-01,Gasolina,24846.0,Berlina,Manual,80.0,12.0,Rojo,C,41
+133,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14000.0,2015-01-01,Diesel,74800.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,64
+134,NISSAN Juke 1.6 DIG-T Tekna 4x2 190,NISSAN,Juke,Tekna,4x2,15900.0,2017-08-01,Gasolina,59101.0,Todo Terreno,Manual,190.0,12.0,-,C,33
+135,NISSAN Leaf Acenta,NISSAN,Leaf,Acenta,4x2,10580.0,2015-03-01,Eléctrico,37369.0,Berlina,Automático,109.0,Sí,Blanco,0 EMISIONES,62
+136,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,13900.0,2018-05-01,Gasolina,10000.0,Todo Terreno,Manual,115.0,24.0,Rojo,C,24
+137,NISSAN Qashqai 1.6 DCI TEKNA+ 130 5P,NISSAN,Qashqai,Tekna,4x2,22900.0,2018-09-01,Diesel,12500.0,Berlina mediana o grande,Manual,130.0,18.0,Azul Ultramar Metalizado                 / Metalizado,C,20
+138,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,14200.0,2018-04-01,Gasolina,22208.0,Todo Terreno,Manual,115.0,12.0,Blanco                 / Metalizado,C,25
+139,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14500.0,2017-05-01,Eléctrico,8500.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,36
+140,NISSAN X-Trail 1.6 dCi N-Connecta 4x2 7 pl.,NISSAN,X-Trail,N-Connecta,4x2,19990.0,2017-01-01,Diesel,47990.0,Todo Terreno,Manual,130.0,0.0,BLANCO ANACARADO,C,40
+141,NISSAN X-Trail 1.6 dCi 360 4x4-i,NISSAN,X-Trail,,4x4,13400.0,2015-01-01,Diesel,94000.0,Todo Terreno,Manual,130.0,0.0,Blanco,C,64
+142,NISSAN Juke  G 83 KW (112 CV) E6D 5M/T 4X2,NISSAN,Juke,,4x2,17600.0,2018-11-01,Gasolina,0.0,,Manual,113.0,36.0,-,C,18
+143,NISSAN Qashqai Todoterreno 130cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,14900.0,2013-03-01,Diesel,113097.0,"4x4, SUV o pickup",Manual,130.0,12.0,-,B,86
+144,NISSAN X-Trail 1.6 dCi Tekna 4x2,NISSAN,X-Trail,Tekna,4x2,22800.0,2017-12-01,Diesel,59733.0,Todo Terreno,Manual,130.0,12.0,Gris                 / Metalizado,C,29
+145,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,19500.0,2015-10-01,Diesel,58700.0,Todo Terreno,Automático,130.0,0.0,verde titanium                 / Metalizado,C,55
+146,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2020-02-01,Gasolina,0.0,Todo Terreno,Manual,140.0,Sí,Blanco,C,3
+147,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,8900.0,2010-01-01,Diesel,120664.0,Todo Terreno,Manual,106.0,12.0,Blanco,B,124
+148,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2018-11-01,Diesel,12700.0,Todo Terreno,Manual,115.0,24.0,AMATISTA                 / Metalizado,C,18
+149,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,17995.0,2019-02-01,Gasolina,47007.0,Todo Terreno,Manual,140.0,12.0,Gris,C,15
+150,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13100.0,2014-09-01,Gasolina,67238.0,Todo Terreno,Manual,115.0,12.0,Blanco,C,68
+151,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,16990.0,2015-09-01,Diesel,67800.0,Todo Terreno,Manual,130.0,12.0,Blanco Perlado Metalizado,C,56
+152,NISSAN X-Trail 1.6 dCi Tekna 4x2,NISSAN,X-Trail,Tekna,4x2,13500.0,2016-01-01,Diesel,96000.0,Todo Terreno,Manual,130.0,24.0,azul                 / Metalizado,C,52
+153,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 DCT 117kW,NISSAN,Qashqai,Acenta,4x2,18300.0,2019-03-01,Gasolina,40000.0,Todo Terreno,Automático,160.0,24.0,Gris                 / Metalizado,C,14
+154,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,11500.0,2015-09-01,Diesel,21768.0,Todo Terreno,Manual,110.0,12.0,Amarillo,C,56
+155,NISSAN X-Trail 1.7 dCi Tekna 4x4-i 7 pl.,NISSAN,X-Trail,Tekna,4x4,27750.0,2019-04-01,Diesel,19017.0,Todo Terreno,Manual,150.0,23.0,Negro Diamante (metalizado)                 / Metalizado,C,13
+156,NISSAN Juke 1.6 DIG-T Tekna Sport,NISSAN,Juke,Tekna,4x2,9700.0,2011-07-01,Gasolina,185000.0,Todo Terreno,Manual,190.0,12.0,Rojo,C,106
+157,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,12500.0,2017-02-01,Diesel,83500.0,Todo Terreno,Manual,110.0,12.0,Negro,C,39
+158,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10950.0,2018-04-01,Gasolina,32095.0,Todo Terreno,Manual,115.0,13.0,Gris                 / Metalizado,C,25
+159,NISSAN Qashqai 1.5dCi S&S 360 4x2,NISSAN,Qashqai,,4x2,10690.0,2015-12-01,Diesel,141690.0,"4x4, SUV o pickup",Manual,110.0,12.0,Blanco,C,53
+160,NISSAN Terrano II 2.7 TDI 125 CV,NISSAN,,,4x2,6900.0,1999-09-01,Diesel,237930.0,Berlina mediana o grande,,,12.0,Verde                 / Metalizado,,248
+161,NISSAN X-Trail 1.6 dCi N-Connecta 4x2 XTronic,NISSAN,X-Trail,N-Connecta,4x2,23495.0,2018-10-01,Diesel,49000.0,Todo Terreno,Automático,130.0,18.0,Blanco,C,19
+162,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,12790.0,2014-12-01,Diesel,123998.0,Todo Terreno,Manual,110.0,12.0,Bronce,C,65
+163,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,23000.0,2019-11-01,Gasolina,2939.0,Todo Terreno,Manual,140.0,36.0,BLANCO PERLADO                 / Metalizado,C,6
+164,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 140 5P,NISSAN,Qashqai,N-Connecta,4x2,19450.0,2019-06-01,Gasolina,15500.0,Berlina mediana o grande,Manual,140.0,36.0,Blanco Perlado Metalizado,C,11
+165,NISSAN Leaf Acenta,NISSAN,Leaf,Acenta,4x2,10580.0,2015-03-01,Eléctrico,46834.0,Berlina,Automático,109.0,Sí,Blanco,0 EMISIONES,62
+166,NISSAN X-Trail 1.6 dCi Acenta 4x4-i,NISSAN,X-Trail,Acenta,4x4,15000.0,2016-01-01,Diesel,89000.0,Todo Terreno,Manual,130.0,12.0,Blanco                 / Metalizado,C,52
+167,NISSAN X-Trail DIG-T 160CV E6D DCT 4X2 TEKNA,NISSAN,X-Trail,Tekna,4x2,27900.0,2020-01-01,Gasolina,10.0,"4x4, SUV o pickup",Automático,160.0,12.0,Blanco Perlado Metalizado,C,4
+168,NISSAN Qashqai Q+2 1.6 Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,8500.0,2008-01-01,Gasolina,148370.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,148
+169,NISSAN Leaf Tekna 30KWh,NISSAN,Leaf,Tekna,4x2,18900.0,2017-01-01,Eléctrico,29570.0,Berlina,Automático,109.0,24.0,Negro                 / Metalizado,0 EMISIONES,40
+170,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,28490.0,2019-04-01,Eléctrico,4861.0,Berlina,Automático,150.0,23.0,Blanco Perlado                 / Metalizado,0 EMISIONES,13
+171,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,17500.0,2014-10-01,Diesel,90000.0,Todo Terreno,Automático,130.0,12.0,Blanco,C,67
+172,NISSAN Pathfinder 2.5dCi LE,NISSAN,,,4x2,8900.0,2006-03-01,Diesel,191300.0,Todo Terreno,Manual,174.0,0.0,Negro,B,170
+173,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,22200.0,2018-07-01,Diesel,6433.0,Todo Terreno,Manual,115.0,12.0,Marrón                 / Metalizado,C,22
+174,NISSAN Murano 3.5 V6 Aut.,NISSAN,Murano,,4x2,7800.0,2007-01-01,Gasolina,140000.0,Todo Terreno,Automático,234.0,0.0,Negro                 / Metalizado,C,160
+175,NISSAN Leaf 40 kWh Acenta,NISSAN,Leaf,Acenta,4x2,21990.0,2018-12-01,Eléctrico,12677.0,Berlina,Automático,150.0,19.0,Negro (metalizado)                 / Metalizado,0 EMISIONES,17
+176,NISSAN Qashqai 1.6dCi Visia 4x2 XTronic,NISSAN,Qashqai,Visia,4x2,16500.0,2017-01-01,Diesel,88813.0,Todo Terreno,Automático,130.0,12.0,Rojo,C,40
+177,NISSAN Qashqai 1.6dCi Tekna 4x2,NISSAN,Qashqai,Tekna,4x2,14990.0,2016-06-01,Diesel,72000.0,Todo Terreno,Manual,130.0,12.0,Plata Diamante Metalizado                 / Metalizado,C,47
+178,NISSAN Qashqai 1.6dCi Visia 4x2 XTronic,NISSAN,Qashqai,Visia,4x2,16500.0,2017-01-01,Diesel,88813.0,Todo Terreno,Automático,130.0,12.0,Rojo,C,40
+179,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13500.0,2015-05-01,Diesel,100000.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,60
+180,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,16900.0,2017-07-01,Eléctrico,15000.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,34
+181,NISSAN Micra IG-T N-Connecta 100,NISSAN,Micra,N-Connecta,4x2,11700.0,2018-12-01,Gasolina,16100.0,Berlina,Manual,100.0,12.0,Negro,C,17
+182,NISSAN Note 1.4 Visia,NISSAN,Note,Visia,4x2,4500.0,2009-01-01,Gasolina,120000.0,Monovolumen,Manual,88.0,12.0,Azul,C,136
+183,NISSAN Qashqai Q+2 2.0dCi Tekna Prem. 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,10999.0,2010-10-01,Diesel,98000.0,Todo Terreno,Manual,150.0,12.0,Negro                 / Metalizado,B,115
+184,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,14900.0,2019-03-01,Diesel,10911.0,Todo Terreno,Manual,110.0,12.0,-,C,14
+185,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16690.0,2017-12-01,Gasolina,14653.0,Todo Terreno,Manual,115.0,12.0,Plata Diamante Metalizado                 / Metalizado,C,29
+186,NISSAN Micra 1.0 IG-T 100CV CVT ACENTA 5P,NISSAN,Micra,Acenta,4x2,13250.0,2019-12-01,Gasolina,1.0,Berlina mediana o grande,Automático,100.0,12.0,-,C,5
+187,NISSAN Qashqai 1.3 DIG-T Q-Line 4x2 103kW,NISSAN,Qashqai,,4x2,23800.0,2019-10-01,Gasolina,8.0,Todo Terreno,Manual,140.0,36.0,ROJO FUSION,C,7
+188,NISSAN Qashqai 1.5dCi Tekna 4x2,NISSAN,Qashqai,Tekna,4x2,13900.0,2015-01-01,Diesel,99000.0,Todo Terreno,Manual,110.0,0.0,Blanco,C,64
+189,NISSAN Qashqai  dCi 85 kW (115 CV) E6D TEKNA,NISSAN,Qashqai,Tekna,4x2,21490.0,2019-03-01,Diesel,20100.0,Berlina mediana o grande,Manual,115.0,22.0,Blanco Perlado (metalizado)                 / Metalizado,C,14
+190,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,22600.0,2018-01-01,Diesel,18051.0,Todo Terreno,Manual,130.0,36.0,negro metalizado                 / Metalizado,C,28
+191,NISSAN Qashqai 1.6 DCI TEKNA+ AUTO 5P,NISSAN,Qashqai,Tekna,4x2,23500.0,2018-06-01,Diesel,8000.0,Berlina mediana o grande,Automático,130.0,12.0,Azul Ultramar Metalizado,C,23
+192,NISSAN Qashqai  dCi 85 kW (115 CV) E6D TEKNA,NISSAN,Qashqai,Tekna,4x2,21490.0,2019-03-01,Diesel,24779.0,Berlina mediana o grande,Manual,115.0,22.0,Gris (metalizado)                 / Metalizado,C,14
+193,NISSAN Qashqai Gasolina de 5 Puertas,NISSAN,Qashqai,,4x2,14800.0,2015-12-01,Gasolina,22000.0,"4x4, SUV o pickup",Manual,130.0,12.0,Rojo,C,53
+194,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15990.0,2017-01-01,Diesel,67563.0,Todo Terreno,Manual,110.0,12.0,67563                 / Metalizado,C,40
+195,NISSAN Qashqai 1.5 DCI 85KW DCT N-CONNECTA 5P (SIN TECHO)-**,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2019-05-01,Diesel,1.0,Berlina mediana o grande,Automático,115.0,24.0,-,C,12
+196,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 117kW,NISSAN,Qashqai,N-Connecta,4x2,18980.0,2019-07-01,Gasolina,28000.0,Todo Terreno,Manual,160.0,12.0,Blanco,C,10
+197,NISSAN Juke 1.6i Tekna Sport,NISSAN,Juke,Tekna,4x2,9490.0,2014-05-01,Gasolina,44200.0,Todo Terreno,Manual,117.0,Sí,Blanco,C,72
+198,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18500.0,2018-06-01,Gasolina,16000.0,Todo Terreno,Manual,115.0,12.0,Blanco                 / Metalizado,C,23
+199,NISSAN GT-R Black Edition Aut.,NISSAN,,,4x2,59990.0,2009-08-01,Gasolina,22000.0,Coupe,Automático,480.0,0.0,Negro,C,129
+200,NISSAN X-Trail 1.6 DCI TEKNA 7 SEAT XTRONIC CVT 5P 7 PLAZAS,NISSAN,X-Trail,Tekna,4x2,25500.0,2018-06-01,Diesel,13500.0,"4x4, SUV o pickup",Automático,130.0,12.0,Blanco Perlado Metalizado,C,23
+201,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,22400.0,2015-01-01,Diesel,95000.0,Todo Terreno,Automático,130.0,12.0,Granate                 / Metalizado,C,64
+202,NISSAN Terrano 2.7TDI Comfort Plus,NISSAN,,,4x2,9900.0,2005-02-01,Diesel,89000.0,Todo Terreno,Manual,125.0,12.0,Verde                 / Metalizado,,183
+203,NISSAN Qashqai Todoterreno 110cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,14900.0,2016-07-01,Diesel,56350.0,"4x4, SUV o pickup",Manual,110.0,12.0,-,C,46
+204,NISSAN Qashqai  DIG-T 117 kW (160 CV) E6D DCT ACENTA + NAVEGADOR + ACCESORIOS,NISSAN,Qashqai,Acenta,4x2,18990.0,2019-02-01,Gasolina,16364.0,Berlina mediana o grande,Automático,160.0,21.0,Negro Diamante (metalizado)                 / Metalizado,C,15
+205,NISSAN Qashqai  dCi 85 kW (115 CV) E6D N-CONNECTA + LED,NISSAN,Qashqai,N-Connecta,4x2,20990.0,2019-05-01,Diesel,10000.0,Berlina mediana o grande,Manual,115.0,24.0,Blanco Perlado (metalizado)                 / Metalizado,C,12
+206,NISSAN Note 1.5dCi Acenta,NISSAN,Note,Acenta,4x2,3500.0,2007-12-01,Diesel,214160.0,Monovolumen,Manual,86.0,12.0,Gris,B,149
+207,NISSAN X-Trail 2.0 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,20900.0,2016-10-01,Diesel,53650.0,Todo Terreno,Automático,177.0,12.0,AMBAR                 / Metalizado,C,43
+208,NISSAN Juke 1.5dCi Acenta,NISSAN,Juke,Acenta,4x2,8300.0,2014-04-01,Diesel,145000.0,Todo Terreno,Manual,110.0,12.0,Blanco                 / Metalizado,C,73
+209,NISSAN Murano 2.5dCi Tekna Sport Aut.,NISSAN,Murano,Tekna,4x2,13000.0,2013-01-01,Diesel,115000.0,Todo Terreno,Automático,190.0,12.0,Negro,B,88
+210,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14500.0,2015-09-01,Diesel,53000.0,Todo Terreno,Manual,110.0,Sí,Blanco Sólido,C,56
+211,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,11510.0,2016-10-01,Diesel,71425.0,Todo Terreno,Manual,110.0,12.0,Negro,C,43
+212,NISSAN Juke 1.5dCi Visia 4x2,NISSAN,Juke,Visia,4x2,8850.0,2016-01-01,Diesel,77573.0,Todo Terreno,Manual,110.0,12.0,Rojo,C,52
+213,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,11680.0,2017-01-01,Gasolina,22300.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,40
+214,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,12310.0,2018-11-01,Diesel,63031.0,Todo Terreno,Manual,110.0,12.0,Bronce,C,18
+215,NISSAN Qashqai 1.2 DIG-T Tekna 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,15300.0,2017-03-01,Gasolina,68223.0,Todo Terreno,Automático,115.0,12.0,Blanco,C,38
+216,NISSAN Qashqai 1.7 DCI TEKNA+ 110KW 150 5P,NISSAN,Qashqai,Tekna,4x2,27900.0,2019-11-01,Diesel,10.0,Berlina mediana o grande,Manual,150.0,0.0,Rojo Fusion Metalizado,C,6
+217,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15490.0,2017-12-01,Gasolina,40969.0,Todo Terreno,Manual,115.0,12.0,Bronce,C,29
+218,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14160.0,2017-02-01,Diesel,69369.0,Todo Terreno,Manual,110.0,12.0,Azul,C,39
+219,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,15400.0,2019-04-01,Gasolina,7105.0,Todo Terreno,Manual,112.0,24.0,AZUL ULTRAMAR,C,13
+220,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13710.0,2017-03-01,Gasolina,78114.0,Todo Terreno,Manual,115.0,12.0,Azul,C,38
+221,NISSAN X-Trail 1.6 DIG-T Tekna 4x2,NISSAN,X-Trail,Tekna,4x2,23000.0,2019-01-01,Gasolina,17691.0,Todo Terreno,Manual,163.0,24.0,Blanco,C,16
+222,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,11320.0,2016-04-01,Diesel,137697.0,Todo Terreno,Manual,110.0,12.0,Gris,C,49
+223,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,13540.0,2016-12-01,Diesel,59698.0,Todo Terreno,Manual,110.0,12.0,Gris,C,41
+224,NISSAN Qashqai 2.0dCi Tekna Sport 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,7990.0,2010-11-01,Diesel,133388.0,Todo Terreno,Manual,150.0,12.0,-,B,114
+225,NISSAN Micra 1.2 Naru Edition,NISSAN,Micra,,4x2,6200.0,2016-07-01,Gasolina,44120.0,Berlina,Manual,80.0,12.0,Blanco,C,46
+226,NISSAN Qashqai 1.3 DIG-T N-Motion 4x2 103kW,NISSAN,Qashqai,,4x2,19470.0,2019-07-01,Gasolina,5388.0,Todo Terreno,Manual,140.0,48.0,Gris,C,10
+227,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10900.0,2017-01-01,Gasolina,14000.0,Todo Terreno,Manual,115.0,12.0,Blanco                 / Metalizado,C,40
+228,NISSAN Qashqai 1.5dCi Tekna+ 4x2 85kW,NISSAN,Qashqai,Tekna,4x2,25500.0,2020-01-01,Diesel,25.0,Todo Terreno,Manual,115.0,36.0,Gris,C,4
+229,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14160.0,2017-03-01,Diesel,57705.0,Todo Terreno,Manual,110.0,12.0,Gris,C,38
+230,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,18310.0,2019-05-01,Diesel,14086.0,Todo Terreno,Manual,115.0,24.0,Blanco,C,12
+231,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16810.0,2018-06-01,Gasolina,14460.0,Todo Terreno,Manual,115.0,18.0,Gris,C,23
+232,NISSAN Qashqai  1.5dCi S&S ACENTA 4x2 Sensores Aparc,NISSAN,Qashqai,Acenta,4x2,12450.0,2014-11-01,Diesel,95773.0,"4x4, SUV o pickup",Manual,110.0,12.0,Blanco,C,66
+233,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,17450.0,2018-02-01,Diesel,23995.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,27
+234,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19890.0,2018-05-01,Diesel,29990.0,Todo Terreno,Manual,130.0,12.0,Azul,C,24
+235,NISSAN Qashqai 1.6 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15040.0,2017-06-01,Gasolina,39343.0,Todo Terreno,Manual,163.0,12.0,Bronce,C,35
+236,NISSAN Qashqai Berlina 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,16810.0,2019-06-01,Gasolina,7006.0,Berlina mediana o grande,Manual,140.0,24.0,Blanco,C,11
+237,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15500.0,2017-04-01,Diesel,65000.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,37
+238,NISSAN GT-R 3.8 V6 570 Black Edition Aut.,NISSAN,,,4x2,92000.0,2018-02-01,Gasolina,7400.0,Coupe,Automático,570.0,36.0,Negro,C,27
+239,NISSAN Micra IG-T N-Connecta 100,NISSAN,Micra,N-Connecta,4x2,12700.0,2019-05-01,Gasolina,17503.0,Berlina,Manual,100.0,24.0,-,C,12
+240,NISSAN GT-R  3.8G V6 419kW (570CV) Black Edition,NISSAN,,,4x2,89000.0,2018-02-01,Gasolina,12350.0,Pequeño,Manual,570.0,36.0,Blanco,C,27
+241,NISSAN Qashqai Berlina 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,16810.0,2019-06-01,Gasolina,14033.0,Berlina mediana o grande,Manual,140.0,24.0,Negro,C,11
+242,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15300.0,2017-08-01,Diesel,71742.0,Todo Terreno,Manual,130.0,12.0,Negro,C,33
+243,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,13300.0,2018-06-01,Gasolina,28864.0,Berlina,Manual,115.0,24.0,-,C,23
+244,NISSAN Qashqai 1.6dCi S&S Tekna Sport 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,12990.0,2012-04-01,Diesel,98000.0,Todo Terreno,Manual,130.0,24.0,Negro,B,97
+245,NISSAN Qashqai 1.5dCi Tekna Premium 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,10300.0,2011-07-01,Diesel,120000.0,Todo Terreno,Manual,110.0,12.0,Blanco,B,106
+246,NISSAN Micra 0.9 IG-T VISIA+ 90 5P,NISSAN,Micra,Visia,4x2,9600.0,2018-03-01,Gasolina,38436.0,Berlina mediana o grande,Manual,90.0,24.0,-,C,26
+247,NISSAN Juke 1.6i N-Tec,NISSAN,Juke,,4x2,10950.0,2013-06-01,Gasolina,115112.0,Todo Terreno,Automático,117.0,12.0,Blanco,C,83
+248,NISSAN Note 1.5dCi Acenta,NISSAN,Note,Acenta,4x2,3950.0,2007-12-01,Diesel,139000.0,Monovolumen,Manual,86.0,12.0,Gris,B,149
+249,NISSAN Qashqai 1.5 DCI ACENTA 110 5P,NISSAN,Qashqai,Acenta,4x2,15900.0,2015-07-01,Diesel,105586.0,Berlina mediana o grande,Manual,110.0,12.0,GRIS,C,58
+250,NISSAN Qashqai Q+2 1.5dCi Tekna Sport 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,11300.0,2012-06-01,Diesel,87000.0,Todo Terreno,Manual,110.0,12.0,Blanco Sólido,B,95
+251,NISSAN X-Trail 5P DIG-T 120 KW (160 CV) E6D DCT TEKNA,NISSAN,X-Trail,Tekna,4x2,27900.0,2019-05-01,Gasolina,85.0,Familiar,Automático,160.0,Sí,Blanco perlado                 / Metalizado,C,12
+252,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14490.0,2015-12-01,Diesel,89990.0,Todo Terreno,Manual,110.0,12.0,Gris,C,53
+253,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14610.0,2017-02-01,Diesel,59681.0,Todo Terreno,Manual,110.0,12.0,Rojo,C,39
+254,NISSAN Qashqai 1.5 DCI N-CONNECTA 85KW 115 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-02-01,Diesel,32500.0,Berlina mediana o grande,Manual,115.0,0.0,Blanco Perlado Metalizado,C,15
+255,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13037.0,2016-07-01,Gasolina,36418.0,Todo Terreno,Manual,115.0,12.0,Negro,C,46
+256,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18400.0,2018-07-01,Gasolina,17183.0,Todo Terreno,Manual,115.0,24.0,GRIS,C,22
+257,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,14600.0,2018-09-01,Gasolina,13104.0,Todo Terreno,Manual,112.0,24.0,NEGRO ZAINO,C,20
+258,NISSAN Qashqai 1.5 DCI N-CONNECTA 85KW 115 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-03-01,Diesel,15000.0,Berlina mediana o grande,Manual,115.0,0.0,-,C,14
+259,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,33950.0,2019-09-01,Eléctrico,1000.0,Berlina,Automático,150.0,36.0,Rojo,0 EMISIONES,8
+260,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,17900.0,2018-01-01,Diesel,10419.0,Todo Terreno,Manual,110.0,12.0,BLANCO PERLADO,C,28
+261,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,10530.0,2017-08-01,Diesel,43152.0,Todo Terreno,Manual,110.0,12.0,Rojo,C,33
+262,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,25900.0,2018-09-01,Diesel,23400.0,Todo Terreno,Automático,130.0,0.0,Negro Diamante Metalizado,C,20
+263,NISSAN X-Trail 1.7 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,25700.0,2019-10-01,Diesel,2459.0,Todo Terreno,Manual,150.0,36.0,MARRÓN,C,7
+264,NISSAN Leaf 40 kWh Acenta,NISSAN,Leaf,Acenta,4x2,25900.0,2019-05-01,Eléctrico,500.0,Berlina,Automático,150.0,36.0,Blanco,0 EMISIONES,12
+265,NISSAN Micra 0.9 IG-T ACENTA 90 5P,NISSAN,Micra,Acenta,4x2,10600.0,2017-12-01,Gasolina,22338.0,Berlina mediana o grande,Manual,90.0,12.0,BLANCO GLACIAR T,C,29
+266,NISSAN Micra DIG-T Acenta 117,NISSAN,Micra,Acenta,4x2,13900.0,2020-02-01,Gasolina,85.0,Berlina,Manual,117.0,Sí,Glaze White (metalizado)                 / Metalizado,C,3
+267,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,25900.0,2018-10-01,Eléctrico,0.0,Berlina,Automático,150.0,0.0,Blanco perlado,0 EMISIONES,19
+268,NISSAN Juke  Acenta G 83 kW (112 CV) 4x2,NISSAN,Juke,Acenta,4x2,13900.0,2019-10-01,Gasolina,894.0,"4x4, SUV o pickup",Manual,113.0,32.0,Azul,C,7
+269,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,13490.0,2016-01-01,Gasolina,38535.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,52
+270,NISSAN Qashqai 1.5 DCI ACENTA 85KW 115 5P,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-10-01,Diesel,550.0,Berlina mediana o grande,Manual,115.0,0.0,Negro Metalizado,C,7
+271,NISSAN Qashqai Q+2 1.6dCi S&S 360 4x2,NISSAN,Qashqai,,4x2,9900.0,2013-09-01,Diesel,159000.0,Todo Terreno,Manual,130.0,12.0,Blanco,B,80
+272,NISSAN X-Trail 1.6 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,17490.0,2017-01-01,Diesel,99990.0,Todo Terreno,Manual,130.0,12.0,Plata,C,40
+273,NISSAN X-Trail 2.0 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,19900.0,2016-09-01,Diesel,53000.0,Todo Terreno,Automático,177.0,12.0,Ambar                 / Metalizado,C,44
+274,NISSAN X-Trail 1.6 dCi 360 4x4-i,NISSAN,X-Trail,,4x4,19800.0,2015-05-01,Diesel,56116.0,Todo Terreno,Manual,130.0,12.0,Verde,C,60
+275,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,31950.0,2019-09-01,Eléctrico,33.0,Berlina,Automático,150.0,36.0,Azul,0 EMISIONES,8
+276,NISSAN Patrol 3.0TD Elegance,NISSAN,,,4x2,12990.0,2005-02-01,Diesel,238000.0,Todo Terreno,Manual,160.0,0.0,Amarillo,,183
+277,NISSAN Qashqai 1.6dCi Tekna Premium 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,16350.0,2015-08-01,Diesel,152361.0,Todo Terreno,Automático,130.0,12.0,Blanco,C,57
+278,NISSAN Micra 1.5dCi S&S Acenta 90,NISSAN,Micra,Acenta,4x2,12900.0,2019-10-01,Diesel,20.0,Berlina,Manual,90.0,36.0,Enigma Black (metalizado),C,7
+279,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,21400.0,2018-01-01,Gasolina,13756.0,Todo Terreno,Manual,115.0,36.0,AZUL VIVI                 / Metalizado,C,28
+280,NISSAN Note 1.5dCi Acenta,NISSAN,Note,Acenta,4x2,9400.0,2015-10-01,Diesel,32000.0,Monovolumen,Manual,90.0,12.0,Blanco,C,55
+281,NISSAN Juke Todoterreno 115cv Manual de 5 Puertas,NISSAN,Juke,,4x2,11900.0,2018-07-01,Gasolina,16100.0,"4x4, SUV o pickup",Manual,115.0,36.0,Blanco perlado,C,22
+282,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,11900.0,2016-12-01,Gasolina,42450.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,41
+283,NISSAN Juke Todoterreno 113cv Manual de 5 Puertas,NISSAN,Juke,,4x2,12900.0,2019-05-01,Gasolina,9700.0,"4x4, SUV o pickup",Manual,113.0,30.0,Negro,C,12
+284,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,12990.0,2015-03-01,Diesel,149000.0,Todo Terreno,Manual,110.0,12.0,Negro,C,62
+285,NISSAN Qashqai 1.3 DIG-T TEKNA+ 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,23900.0,2019-02-01,Gasolina,8000.0,Berlina mediana o grande,Manual,140.0,0.0,Blanco Perlado Metalizado,C,15
+286,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,12700.0,2015-11-01,Diesel,44491.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,54
+287,NISSAN Qashqai Familiar 110cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,14000.0,2015-11-01,Diesel,50251.0,Familiar,Manual,110.0,12.0,Negro,C,54
+288,NISSAN Qashqai Berlina 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,16810.0,2019-06-01,Gasolina,10000.0,Berlina mediana o grande,Manual,140.0,24.0,Negro,C,11
+289,NISSAN Qashqai 1.6dCi Tekna Sport 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,12990.0,2011-11-01,Diesel,69990.0,Todo Terreno,Manual,130.0,12.0,Negro,B,102
+290,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20800.0,2019-07-01,Gasolina,17.0,Todo Terreno,Manual,140.0,36.0,Blanco,C,10
+291,NISSAN Micra IG-T Visia 100,NISSAN,Micra,Visia,4x2,12720.0,2020-02-01,Gasolina,500.0,Berlina,Manual,100.0,36.0,Negro,C,3
+292,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Blanco Perlado Metalizado,C,5
+293,NISSAN X-Trail 1.7 dCi Tekna 4x2,NISSAN,X-Trail,Tekna,4x2,30000.0,2019-11-01,Diesel,30.0,Todo Terreno,Manual,150.0,36.0,Blanco,C,6
+294,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12900.0,2018-06-01,Gasolina,35947.0,Berlina,Manual,115.0,24.0,Blanco Perlado Metalizado,C,23
+295,NISSAN Qashqai DIG-T 140CV 4X2 N-CONNECTA (SIN TECHO NI RUEDA),NISSAN,Qashqai,N-Connecta,4x2,20900.0,2019-08-01,Gasolina,29.0,Berlina mediana o grande,Manual,140.0,12.0,Negro Amatista Metalizado,C,9
+296,NISSAN X-Trail 1.7 dCi Tekna 4x4-i,NISSAN,X-Trail,Tekna,4x4,32600.0,2019-12-01,Diesel,31.0,Todo Terreno,Manual,150.0,36.0,Rojo,C,5
+297,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,15400.0,2015-07-01,Diesel,82562.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,58
+298,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14900.0,2015-02-01,Diesel,29501.0,Todo Terreno,Manual,110.0,12.0,Blanco Perlado Metalizado,C,63
+299,NISSAN Qashqai 1.6dCi Tekna+ 4x2,NISSAN,Qashqai,Tekna,4x2,20900.0,2017-11-01,Diesel,23600.0,Todo Terreno,Manual,130.0,36.0,Azul Ultramar,C,30
+300,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14900.0,2017-07-01,Diesel,29617.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,34
+301,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,18900.0,2019-06-01,Diesel,11506.0,Todo Terreno,Manual,115.0,24.0,-,C,11
+302,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,14700.0,2018-10-01,Gasolina,9762.0,Todo Terreno,Manual,112.0,24.0,-,C,19
+303,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,13900.0,2018-03-01,Diesel,10000.0,Todo Terreno,Manual,110.0,Sí,-,C,26
+304,NISSAN Micra C+C 1.4i Acenta,NISSAN,Micra,Acenta,4x2,5150.0,2007-09-01,Gasolina,32020.0,Convertible,Manual,88.0,0.0,Azul,C,152
+305,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,13900.0,2018-03-01,Diesel,10000.0,Todo Terreno,Manual,110.0,Sí,-,C,26
+306,NISSAN Micra C+C 1.4i Acenta,NISSAN,Micra,Acenta,4x2,5150.0,2007-09-01,Gasolina,32020.0,Convertible,Manual,88.0,0.0,Azul,C,152
+307,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2018-06-01,Gasolina,8457.0,Todo Terreno,Manual,115.0,24.0,BLANCO PERLADO                 / Metalizado,C,23
+308,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20000.0,2019-12-01,Gasolina,10.0,Todo Terreno,Manual,140.0,36.0,Negro,C,5
+309,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15660.0,2018-03-01,Diesel,79201.0,Todo Terreno,Manual,110.0,36.0,Rojo,C,26
+310,NISSAN Qashqai 1.6dCi Visia 4x4-i,NISSAN,Qashqai,Visia,4x4,18310.0,2019-06-01,Diesel,10000.0,Todo Terreno,Manual,130.0,24.0,Blanco,C,11
+311,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,13900.0,2016-11-01,Diesel,92720.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+312,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,10900.0,2016-08-01,Diesel,78310.0,Todo Terreno,Manual,110.0,12.0,BLANCO,C,45
+313,NISSAN Juke 1.6 Tekna 4x2 XTronic CVT 112,NISSAN,Juke,Tekna,4x2,16400.0,2018-10-01,Gasolina,7879.0,Todo Terreno,Automático,112.0,12.0,-,C,19
+314,NISSAN Qashqai 1.5dCi N-Connecta DCT 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,22900.0,2019-04-01,Diesel,105.0,Todo Terreno,Automático,115.0,24.0,-,C,13
+315,NISSAN Qashqai Q+2 1.6dCi S&S Tekna Sport 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,10990.0,2013-04-01,Diesel,155848.0,Todo Terreno,Manual,130.0,12.0,Blanco,B,85
+316,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18500.0,2018-06-01,Gasolina,18500.0,Todo Terreno,Manual,115.0,18.0,Blanco                 / Metalizado,C,23
+317,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,19900.0,2018-09-01,Diesel,28000.0,Todo Terreno,Manual,115.0,36.0,Blanco,C,20
+318,NISSAN Juke G E6D-TEMP 83 KW (112 CV) 5M/T N-CONNECTA,NISSAN,Juke,N-Connecta,4x2,13900.0,2019-04-01,Gasolina,6900.0,Familiar,Manual,112.0,Sí,Plata Diamante (metalizado)                 / Metalizado,C,13
+319,NISSAN Qashqai 1.3 DIG-T TEKNA 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,23500.0,2019-02-01,Gasolina,8800.0,Berlina mediana o grande,Manual,140.0,0.0,Rojo Solido S?lido,C,15
+320,NISSAN Pulsar 1.2 DIG-T N-Connecta,NISSAN,Pulsar,N-Connecta,4x2,13300.0,2018-03-01,Gasolina,27510.0,Berlina,Manual,115.0,36.0,Blanco,C,26
+321,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,15900.0,2016-11-01,Diesel,29267.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+322,NISSAN X-Trail 1.6 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,18050.0,2017-02-01,Diesel,43265.0,Todo Terreno,Automático,130.0,12.0,Gris,C,39
+323,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,14600.0,2018-11-01,Gasolina,14211.0,Todo Terreno,Manual,112.0,24.0,BLANCO PERLADO,C,18
+324,NISSAN X-Trail 1.6 DIG-T N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,22900.0,2018-07-01,Gasolina,17842.0,Todo Terreno,Manual,163.0,24.0,NEGRO PERLADO,C,22
+325,NISSAN Juke 1.6G ACENTA 83 KW (112 CV),NISSAN,Juke,Acenta,4x2,11800.0,2018-09-01,Gasolina,27218.0,"4x4, SUV o pickup",Manual,112.0,24.0,Azul Vivid Metalizado,C,20
+326,NISSAN Juke DIG-T 86kW (117 CV) 6 M/T ACENTA,NISSAN,Juke,Acenta,4x2,18600.0,2019-12-01,Gasolina,10.0,"4x4, SUV o pickup",Manual,117.0,36.0,-,C,5
+327,NISSAN X-Trail 1.7 dCi N-Connecta 4x4-i,NISSAN,X-Trail,N-Connecta,4x4,31300.0,2019-11-01,Diesel,29.0,Todo Terreno,Manual,150.0,36.0,Verde,C,6
+328,NISSAN X-Trail 1.6 dCi Tekna 4x4-i 7 pl.,NISSAN,X-Trail,Tekna,4x4,23450.0,2018-01-01,Diesel,77720.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,28
+329,NISSAN Juke Todoterreno 113cv Manual de 5 Puertas,NISSAN,Juke,,4x2,12900.0,2019-05-01,Gasolina,17541.0,"4x4, SUV o pickup",Manual,113.0,30.0,Blanco,C,12
+330,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,12900.0,2016-11-01,Diesel,117350.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+331,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,13500.0,2016-11-01,Diesel,86192.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+332,NISSAN Qashqai 1.6dCi Tekna+ 4x2,NISSAN,Qashqai,Tekna,4x2,24900.0,2019-03-01,Diesel,12935.0,Todo Terreno,Automático,130.0,24.0,Azul Vivid Metalizado,C,14
+333,NISSAN Qashqai 1.6dCi Tekna 4x2,NISSAN,Qashqai,Tekna,4x2,14990.0,2015-01-01,Diesel,80000.0,Todo Terreno,Manual,130.0,36.0,Negro                 / Metalizado,C,64
+334,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16500.0,2018-04-01,Diesel,52250.0,Todo Terreno,Manual,110.0,24.0,-,C,25
+335,NISSAN Qashqai 1.5 DCI TEKNA 85KW 115 5P,NISSAN,Qashqai,Tekna,4x2,23500.0,2019-09-01,Diesel,10100.0,Berlina mediana o grande,Manual,115.0,0.0,Blanco S?lido,C,8
+336,NISSAN Juke Todoterreno 110cv Manual de 5 Puertas,NISSAN,Juke,,4x2,12900.0,2017-12-01,Diesel,24100.0,"4x4, SUV o pickup",Manual,110.0,36.0,Negro Metalizado,C,29
+337,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,8850.0,2015-04-01,Gasolina,65641.0,Todo Terreno,Manual,115.0,12.0,Blanco,C,61
+338,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12800.0,2018-03-01,Gasolina,26218.0,Berlina,Manual,115.0,24.0,BLANCO PERLADO,C,26
+339,NISSAN X-Trail  dCi 130CV (96kW) XTRONIC TEKNA,NISSAN,X-Trail,Tekna,4x2,15900.0,2016-04-01,Diesel,113000.0,Familiar,Manual,130.0,12.0,Verde,C,49
+340,NISSAN Qashqai Berlina 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,19900.0,2019-06-01,Gasolina,15600.0,Berlina mediana o grande,Manual,140.0,36.0,Azul,C,11
+341,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,19800.0,2019-05-01,Gasolina,3597.0,Todo Terreno,Manual,140.0,24.0,Blanco Perlado Metalizado,C,12
+342,NISSAN X-Trail 1.3 DIG-T Acenta 4x2 DCT,NISSAN,X-Trail,Acenta,4x2,23900.0,2019-11-01,Gasolina,10.0,Todo Terreno,Automático,160.0,0.0,Blanco Perlado Metalizado,C,6
+343,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17800.0,2017-09-01,Diesel,33756.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,32
+344,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,13540.0,2016-12-01,Diesel,59698.0,Todo Terreno,Manual,110.0,12.0,Gris,C,41
+345,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17900.0,2018-05-01,Gasolina,14410.0,Todo Terreno,Manual,115.0,24.0,GRIS,C,24
+346,NISSAN Qashqai 1.5 DCI N-CONNECTA 85KW 115 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2019-01-01,Diesel,16500.0,Berlina mediana o grande,Manual,115.0,0.0,Blanco Perlado Metalizado,C,16
+347,NISSAN Juke 1.5dCi S&S Tekna Premium,NISSAN,Juke,Tekna,4x2,11499.0,2013-01-01,Diesel,72800.0,Todo Terreno,Manual,110.0,12.0,Granate                 / Metalizado,B,88
+348,NISSAN Juke 1.5dCi N-Tec 4x2,NISSAN,Juke,,4x2,8900.0,2014-07-01,Diesel,179872.0,Todo Terreno,Manual,110.0,12.0,Blanco Sólido                 / Metalizado,C,70
+349,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2019-07-01,Gasolina,15.0,Todo Terreno,Manual,140.0,36.0,Blanco,C,10
+350,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,17450.0,2018-02-01,Diesel,18885.0,Todo Terreno,Manual,110.0,12.0,Negro,C,27
+351,NISSAN Juke Todoterreno 115cv Manual de 5 Puertas,NISSAN,Juke,,4x2,12900.0,2018-02-01,Gasolina,12900.0,"4x4, SUV o pickup",Manual,115.0,36.0,Azul Ultramar Metalizado,C,27
+352,NISSAN Murano 3.5 V6 Aut.,NISSAN,Murano,,4x2,4500.0,2006-07-01,Gasolina,218040.0,Todo Terreno,Automático,234.0,0.0,Azul,C,166
+353,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,17850.0,2018-12-01,Gasolina,30260.0,Todo Terreno,Manual,140.0,24.0,Blanco,C,17
+354,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15490.0,2017-12-01,Gasolina,40969.0,Todo Terreno,Manual,115.0,12.0,Bronce,C,29
+355,NISSAN Qashqai 1.5 DCI TEKNA 85KW 115 5P,NISSAN,Qashqai,Tekna,4x2,23500.0,2019-09-01,Diesel,18300.0,Berlina mediana o grande,Manual,115.0,0.0,Gris Metalizado,C,8
+356,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 117KW 160 5P,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2018-12-01,Gasolina,27800.0,Berlina mediana o grande,Manual,160.0,0.0,Gris Metalizado,C,17
+357,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20800.0,2019-07-01,Gasolina,16.0,Todo Terreno,Manual,140.0,36.0,Azul,C,10
+358,NISSAN Qashqai +2 Tekna Premium 1.6 dCi 130 CV Stop&Start 4x2,NISSAN,Qashqai,Tekna,4x2,11988.0,2012-06-01,Diesel,130450.0,"4x4, SUV o pickup",Manual,130.0,12.0,Azul,B,95
+359,NISSAN Qashqai Berlina 110cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,15900.0,2018-02-01,Diesel,20367.0,Berlina mediana o grande,Manual,110.0,36.0,Negro Diamante (metalizado),C,27
+360,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17900.0,2018-06-01,Diesel,45556.0,Todo Terreno,Manual,130.0,Sí,Negro Amatista Metalizado                 / Metalizado,C,23
+361,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,11900.0,2018-12-01,Gasolina,9687.0,Berlina,Manual,90.0,24.0,NEGRO                 / Metalizado,C,17
+362,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18500.0,2018-08-01,Gasolina,16458.0,Todo Terreno,Manual,115.0,Sí,Blanco Perlado Metalizado                 / Metalizado,C,21
+363,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16810.0,2018-06-01,Gasolina,15952.0,Todo Terreno,Manual,115.0,18.0,Plata,C,23
+364,NISSAN Qashqai 1.3 DIG-T TEKNA+ 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,23900.0,2019-02-01,Gasolina,7800.0,Berlina mediana o grande,Manual,140.0,0.0,Negro Metalizado,C,15
+365,NISSAN Qashqai 1.6dCi S&S Tekna Sport 4x2 18´´,NISSAN,Qashqai,Tekna,4x2,12990.0,2012-04-01,Diesel,98000.0,Todo Terreno,Manual,130.0,24.0,Negro,B,97
+366,NISSAN Juke ACCENTA 1.2 DIG,NISSAN,Juke,,4x2,10700.0,2016-04-01,Gasolina,39000.0,"4x4, SUV o pickup",Manual,115.0,12.0,-,C,49
+367,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 117KW 160 5P,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2018-11-01,Gasolina,10.0,Berlina mediana o grande,Manual,160.0,0.0,Azul Ultramar Metalizado,C,18
+368,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,12310.0,2018-11-01,Diesel,63031.0,Todo Terreno,Manual,110.0,12.0,Bronce,C,18
+369,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14490.0,2015-12-01,Diesel,89990.0,Todo Terreno,Manual,110.0,12.0,Gris,C,53
+370,NISSAN X-Trail 1.6 dCi N-Connecta 4x4-i 7 pl.,NISSAN,X-Trail,N-Connecta,4x4,22900.0,2017-09-01,Diesel,16938.0,Todo Terreno,Manual,130.0,12.0,NEGRO PERLADO,C,32
+371,NISSAN Pulsar 1.5 dCi Visia,NISSAN,Pulsar,Visia,4x2,7599.0,2015-10-01,Diesel,99563.0,Berlina,Manual,110.0,12.0,Blanco,C,55
+372,NISSAN Pathfinder 2.5dCi LE Aut. DPF,NISSAN,,,4x2,12800.0,2008-09-01,Diesel,120000.0,Todo Terreno,Automático,171.0,12.0,Azul,B,140
+373,NISSAN Juke 1.2 DIG-T Tekna S 4x2,NISSAN,Juke,Tekna,4x2,10390.0,2015-07-01,Gasolina,57000.0,Todo Terreno,Manual,115.0,12.0,Blanco,C,58
+374,NISSAN Micra IG-T S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,10900.0,2018-03-01,Gasolina,19678.0,Berlina,Manual,90.0,12.0,GRIS                 / Metalizado,C,26
+375,NISSAN Qashqai 1.5dCi 360 4x2,NISSAN,Qashqai,,4x2,13500.0,2016-05-01,Diesel,64225.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,48
+376,NISSAN Juke 1.6i Tekna Sport,NISSAN,Juke,Tekna,4x2,10900.0,2013-07-01,Gasolina,57700.0,Todo Terreno,Manual,117.0,12.0,Blanco sólido                 / Metalizado,C,82
+377,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20300.0,2019-07-01,Gasolina,13.0,Todo Terreno,Manual,140.0,36.0,Gris Plata,C,10
+378,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12900.0,2018-06-01,Gasolina,36605.0,Berlina,Manual,115.0,24.0,-,C,23
+379,NISSAN Micra IG-T S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,11490.0,2017-09-01,Gasolina,29990.0,Berlina,Manual,90.0,12.0,Verde,C,32
+380,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14160.0,2017-03-01,Diesel,57705.0,Todo Terreno,Manual,110.0,12.0,Gris,C,38
+381,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13037.0,2016-07-01,Gasolina,36418.0,Todo Terreno,Manual,115.0,12.0,Negro,C,46
+382,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,19727.0,2019-11-01,Gasolina,19.0,Todo Terreno,Manual,140.0,36.0,Marrón,C,6
+383,NISSAN Pulsar 1.5 dCi N-Connecta,NISSAN,Pulsar,N-Connecta,4x2,11900.0,2018-07-01,Diesel,26200.0,Berlina,Manual,110.0,36.0,Rojo Sólido,C,22
+384,NISSAN Qashqai 1.5 DCI N-CONNECTA 85KW 115 5P,NISSAN,Qashqai,N-Connecta,4x2,17900.0,2018-11-01,Diesel,27500.0,Berlina mediana o grande,Manual,115.0,0.0,-,C,18
+385,NISSAN Qashqai 1.3 DIG-T TEKNA 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,22900.0,2019-02-01,Gasolina,20500.0,Berlina mediana o grande,Manual,140.0,0.0,Rojo Fusion Metalizado,C,15
+386,NISSAN Micra Berlina 117cv Manual de 5 Puertas,NISSAN,Micra,,4x2,13710.0,2019-12-01,Gasolina,1487.0,Berlina mediana o grande,Manual,117.0,24.0,Rojo,C,5
+387,NISSAN X-Trail 1.7 dCi Tekna 4x4-i 7 pl.,NISSAN,X-Trail,Tekna,4x4,29500.0,2019-12-01,Diesel,32.0,Todo Terreno,Manual,150.0,36.0,Gris,C,5
+388,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,14900.0,2017-04-01,Diesel,22152.0,Todo Terreno,Manual,110.0,12.0,GRIS ACERO,C,37
+389,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,22900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Blanco S?lido,C,5
+390,NISSAN Qashqai 1.2 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13710.0,2017-03-01,Gasolina,78114.0,Todo Terreno,Manual,115.0,12.0,Azul,C,38
+391,NISSAN Qashqai 1.3 DIG-T N-Motion 4x2 103kW,NISSAN,Qashqai,,4x2,19470.0,2019-07-01,Gasolina,5388.0,Todo Terreno,Manual,140.0,48.0,Gris,C,10
+392,NISSAN Qashqai 1.5dCi N-Connecta DCT 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,22900.0,2019-01-01,Diesel,7000.0,Todo Terreno,Automático,115.0,24.0,Blanco,C,16
+393,NISSAN Pulsar 1.5 dCi Acenta,NISSAN,Pulsar,Acenta,4x2,12800.0,2018-03-01,Diesel,22094.0,Berlina,Manual,110.0,24.0,BLANCO PERLADO,C,26
+394,NISSAN X-Trail Todoterreno 130cv Manual de 5 Puertas,NISSAN,X-Trail,,4x2,17990.0,2015-01-01,Diesel,79990.0,"4x4, SUV o pickup",Manual,130.0,12.0,Oro,C,64
+395,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13280.0,2017-02-01,Diesel,59531.0,Todo Terreno,Manual,110.0,12.0,Rojo,C,39
+396,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,11900.0,2017-06-01,Gasolina,15200.0,Berlina,Manual,90.0,0.0,-,C,35
+397,NISSAN Juke 1.2 DIG-T Dark Sound Edition 4x2 115,NISSAN,Juke,,4x2,12900.0,2017-06-01,Gasolina,38000.0,Todo Terreno,Manual,115.0,12.0,Negro,C,35
+398,NISSAN Qashqai dCi 85 kW (115 CV) E6D ACENTA,NISSAN,Qashqai,Acenta,4x2,22400.0,2019-08-01,Diesel,6000.0,Pequeño,Manual,115.0,36.0,Gris,C,9
+399,NISSAN Qashqai 1.3 DIG-T TEKNA+ 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,24900.0,2019-02-01,Gasolina,6000.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Vivid Metalizado,C,15
+400,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,13500.0,2016-09-01,Diesel,95423.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,44
+401,NISSAN Qashqai 1.3 DIG-T TEKNA+ 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,24900.0,2019-02-01,Gasolina,6000.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Vivid Metalizado,C,15
+402,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,13500.0,2016-09-01,Diesel,95423.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,44
+403,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,14490.0,2015-05-01,Diesel,115536.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,60
+404,"NISSAN Qashqai  1.6dCi Tekna 4x2 XTronic, Navi,LED,Cuero, Techo",NISSAN,Qashqai,Tekna,4x2,18500.0,2015-12-01,Diesel,28000.0,"4x4, SUV o pickup",Automático,131.0,12.0,Blanco,C,53
+405,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,11600.0,2012-02-01,Diesel,45000.0,Todo Terreno,Manual,110.0,24.0,-,B,99
+406,NISSAN Qashqai Todoterreno 115cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,17900.0,2018-12-01,Diesel,12499.0,"4x4, SUV o pickup",Manual,115.0,Sí,-,C,17
+407,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2018-08-01,Diesel,30344.0,Todo Terreno,Manual,130.0,Sí,Blanco Perlado Metalizado                 / Metalizado,C,21
+408,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,12990.0,2015-03-01,Diesel,149000.0,Todo Terreno,Manual,110.0,12.0,Negro,C,62
+409,NISSAN X-Trail 1.6 DIG-T N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,17490.0,2016-09-01,Gasolina,94481.0,Todo Terreno,Manual,163.0,12.0,Blanco,C,44
+410,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,10530.0,2017-08-01,Diesel,43152.0,Todo Terreno,Manual,110.0,12.0,Rojo,C,33
+411,NISSAN Qashqai 1.6dCi Visia 4x4-i,NISSAN,Qashqai,Visia,4x4,18310.0,2019-06-01,Diesel,10000.0,Todo Terreno,Manual,130.0,24.0,Blanco,C,11
+412,NISSAN Qashqai 1.3 DIG-T ACENTA 103KW 140 5P,NISSAN,Qashqai,Acenta,4x2,20900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Vivid Metalizado,C,5
+413,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,8900.0,2017-11-01,Gasolina,36159.0,Berlina,Manual,90.0,12.0,Negro,C,30
+414,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,10490.0,2018-03-01,Gasolina,31250.0,Berlina,Manual,90.0,10.0,Gunmetal Grey (metalizado),C,26
+415,NISSAN X-Trail 1.6 DIG-T Tekna 4x2 7 pl.,NISSAN,X-Trail,Tekna,4x2,24900.0,2018-03-01,Gasolina,8788.0,Todo Terreno,Manual,163.0,18.0,perlado                 / Metalizado,C,26
+416,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,15900.0,2015-01-01,Diesel,65500.0,Todo Terreno,Manual,110.0,12.0,Granate                 / Metalizado,C,64
+417,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,15900.0,2015-01-01,Diesel,65500.0,Todo Terreno,Manual,110.0,12.0,Granate                 / Metalizado,C,64
+418,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19900.0,2018-04-01,Diesel,29913.0,Todo Terreno,Manual,130.0,Sí,Rojo Sólido,C,25
+419,NISSAN Qashqai 5P DIG-T 117 KW (160 CV) E6D 6M/T 4X2 N-CONNECTA,NISSAN,Qashqai,N-Connecta,4x2,21500.0,2019-01-01,Gasolina,5500.0,Berlina mediana o grande,Manual,160.0,0.0,Negro Metalizado,C,16
+420,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17500.0,2016-08-01,Diesel,30688.0,Todo Terreno,Manual,110.0,Sí,Negro,C,45
+421,NISSAN Qashqai 1.5dCi Acenta 4x2 85kW,NISSAN,Qashqai,Acenta,4x2,18400.0,2019-03-01,Diesel,8200.0,Todo Terreno,Manual,115.0,Sí,-,C,14
+422,NISSAN Micra Berlina 117cv Manual de 5 Puertas,NISSAN,Micra,,4x2,13710.0,2019-07-01,Gasolina,15000.0,Berlina mediana o grande,Manual,117.0,24.0,Negro,C,10
+423,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,18310.0,2019-06-01,Diesel,10000.0,Todo Terreno,Manual,115.0,24.0,Blanco,C,11
+424,NISSAN Micra IG-T S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,11490.0,2017-12-01,Gasolina,26805.0,Berlina,Manual,90.0,12.0,Blanco,C,29
+425,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19890.0,2018-05-01,Diesel,29990.0,Todo Terreno,Manual,130.0,12.0,Azul,C,24
+426,NISSAN X-Trail 1.6 dCi Acenta 4x4-i,NISSAN,X-Trail,Acenta,4x4,15700.0,2016-08-01,Diesel,127500.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,45
+427,NISSAN Qashqai  1.6dCi VISIA 4x4 5 Puertas,NISSAN,Qashqai,Visia,4x4,16000.0,2016-06-01,Diesel,60846.0,"4x4, SUV o pickup",Manual,131.0,12.0,Blanco,C,47
+428,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,21959.0,2019-11-01,Gasolina,18.0,Todo Terreno,Manual,140.0,36.0,Marrón,C,6
+429,NISSAN X-Trail 1.7 DCI TEKNA 110KW 150,NISSAN,X-Trail,Tekna,4x2,27900.0,2019-06-01,Diesel,10148.0,"4x4, SUV o pickup",Manual,150.0,24.0,Blanco Perlado Metalizado,C,11
+430,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,14900.0,2019-02-01,Gasolina,3714.0,Todo Terreno,Manual,112.0,24.0,Negro Metalizado,C,15
+431,NISSAN Juke DIG-T EU6 85 kW (115 CV) 6M/T ACENTA,NISSAN,Juke,Acenta,4x2,11990.0,2018-01-01,Gasolina,95218.0,"4x4, SUV o pickup",Manual,115.0,12.0,Gris (metalizado),C,28
+432,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2019-02-01,Gasolina,25500.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Ultramar Metalizado,C,15
+433,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2019-02-01,Gasolina,25500.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Ultramar Metalizado,C,15
+434,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,20500.0,2019-07-01,Gasolina,14.0,Todo Terreno,Manual,140.0,36.0,Blanco,C,10
+435,NISSAN Micra 1.0 G Acenta 70,NISSAN,Micra,Acenta,4x2,10450.0,2018-09-01,Gasolina,16100.0,Berlina,Manual,70.0,36.0,Solid White (sólido),C,20
+436,NISSAN Qashqai 1.6dCi Tekna 4x4-i,NISSAN,Qashqai,Tekna,4x4,16600.0,2016-10-01,Diesel,70821.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,43
+437,NISSAN Qashqai 1.6 Visia 4x2,NISSAN,Qashqai,Visia,4x2,8000.0,2012-02-01,Gasolina,167201.0,Todo Terreno,Manual,117.0,12.0,Blanco,C,99
+438,NISSAN Qashqai Todoterreno 115cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,17900.0,2018-12-01,Diesel,17990.0,"4x4, SUV o pickup",Manual,115.0,Sí,-,C,17
+439,NISSAN Juke 1.6 DIG-T Tekna 4x2 190,NISSAN,Juke,Tekna,4x2,13500.0,2016-02-01,Gasolina,83000.0,Todo Terreno,Manual,190.0,12.0,Blanco,C,51
+440,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,13900.0,2018-03-01,Diesel,12500.0,Todo Terreno,Manual,110.0,Sí,Blanco,C,26
+441,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16499.0,2018-07-01,Gasolina,10266.0,Todo Terreno,Manual,115.0,20.0,Negro,C,22
+442,NISSAN Micra 0.9 IG-T N-CONNECTA 90 5P,NISSAN,Micra,N-Connecta,4x2,11500.0,2018-03-01,Gasolina,16274.0,Berlina mediana o grande,Manual,90.0,12.0,BLANCO,C,26
+443,NISSAN Micra 1.0 IG-T N-CONNECTA 74KW 100 5P,NISSAN,Micra,N-Connecta,4x2,13900.0,2019-11-01,Gasolina,13.0,Berlina mediana o grande,Manual,100.0,24.0,-,C,6
+444,NISSAN Qashqai 1.5dCi Tekna Sport 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,9990.0,2012-08-01,Diesel,97699.0,Todo Terreno,Manual,110.0,12.0,Rojo Fusión Metalizado,B,93
+445,NISSAN Juke 1.6 DIG-T Nismo 200,NISSAN,Juke,,4x2,14500.0,2013-01-01,Gasolina,81140.0,Todo Terreno,Manual,200.0,12.0,Blanco,C,88
+446,NISSAN Juke 1.6 Acenta 4x2 112,NISSAN,Juke,Acenta,4x2,11900.0,2018-12-01,Gasolina,25846.0,Todo Terreno,Manual,112.0,24.0,Blanco S?lido,C,17
+447,NISSAN Micra 0.9 IG-T N-CONNECTA 90 5P,NISSAN,Micra,N-Connecta,4x2,11300.0,2018-03-01,Gasolina,20475.0,Berlina mediana o grande,Manual,90.0,12.0,GRIS,C,26
+448,NISSAN Qashqai 1.3 DIG-T TEKNA 103KW 140 5P,NISSAN,Qashqai,Tekna,4x2,22500.0,2018-09-01,Gasolina,2700.0,Berlina mediana o grande,Manual,140.0,0.0,Gris Metalizado,C,20
+449,NISSAN X-Trail 5P DCI 110 KW (150 CV) E6D TEKNA,NISSAN,X-Trail,Tekna,4x2,28400.0,2020-01-01,Diesel,85.0,Familiar,Manual,150.0,Sí,Gris metalizado                 / Metalizado,C,4
+450,NISSAN Qashqai 1.3 DIG-T ACENTA 103KW 140 5P,NISSAN,Qashqai,Acenta,4x2,20500.0,2019-11-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,-,C,6
+451,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-04-01,Gasolina,4289.0,Todo Terreno,Manual,140.0,24.0,Azul Ultramar Metalizado,C,13
+452,NISSAN Qashqai 1.6dCi N-Vision 4x2,NISSAN,Qashqai,,4x2,14490.0,2016-10-01,Diesel,131313.0,Todo Terreno,Manual,130.0,12.0,Blanco Sólido,C,43
+453,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,13900.0,2019-03-01,Gasolina,10650.0,Todo Terreno,Manual,112.0,Sí,Plata Diamante (metalizado)                 / Metalizado,C,14
+454,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,13490.0,2016-08-01,Gasolina,55816.0,Todo Terreno,Manual,115.0,12.0,Granate,C,45
+455,NISSAN Micra 0.9 IG-T ACENTA 90 5P,NISSAN,Micra,Acenta,4x2,10600.0,2018-01-01,Gasolina,21254.0,Berlina mediana o grande,Manual,90.0,12.0,GRIS,C,28
+456,NISSAN Qashqai 1.5dCi 360 4x2,NISSAN,Qashqai,,4x2,13300.0,2015-11-01,Diesel,90000.0,Todo Terreno,Manual,110.0,12.0,-,C,54
+457,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18400.0,2018-05-01,Diesel,26633.0,Todo Terreno,Manual,110.0,Sí,-,C,24
+458,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19700.0,2018-06-01,Gasolina,23691.0,Todo Terreno,Manual,115.0,12.0,-,C,23
+459,NISSAN Qashqai  dCi 85 kW (115 CV) E6D ACENTA,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-01-01,Diesel,51199.0,Berlina mediana o grande,Manual,115.0,20.0,Gris (metalizado),C,16
+460,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,13490.0,2016-01-01,Gasolina,38535.0,Todo Terreno,Manual,115.0,12.0,Rojo,C,52
+461,NISSAN Qashqai 1.3 DIG-T N-CONNECTA DCT 117KW 160 5P,NISSAN,Qashqai,N-Connecta,4x2,24900.0,2019-11-01,Gasolina,1200.0,Berlina mediana o grande,Automático,160.0,0.0,-,C,6
+462,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,16500.0,2017-03-01,Diesel,52046.0,Todo Terreno,Manual,130.0,Sí,Negro (metalizado)                 / Metalizado,C,38
+463,NISSAN Micra IG-T S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,9999.0,2018-01-01,Gasolina,49184.0,Berlina,Manual,90.0,12.0,Negro,C,28
+464,NISSAN X-Trail 7P DIG-T 120 kW (160 CV) E6D DCT N-CONN.,NISSAN,X-Trail,,4x2,27300.0,2019-09-01,Gasolina,28.0,Pequeño,Automático,160.0,36.0,Gris,C,8
+465,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10900.0,2018-03-01,Gasolina,30001.0,Todo Terreno,Manual,115.0,24.0,BLANCO PERLADO,C,26
+466,NISSAN Note  5p. 1.5dCi 90CN-TEC,NISSAN,Note,,4x2,7490.0,2015-01-01,Diesel,109200.0,Berlina mediana o grande,Manual,90.0,12.0,Blanco (sólido),C,64
+467,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,22200.0,2019-07-01,Gasolina,12.0,Todo Terreno,Manual,140.0,36.0,Blanco,C,10
+468,NISSAN Juke  DIG-T EU6 85 kW (115 CV) 6M/T N-CONNECTA,NISSAN,Juke,N-Connecta,4x2,12990.0,2018-01-01,Gasolina,99900.0,"4x4, SUV o pickup",Automático,115.0,12.0,Negro,C,28
+469,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12900.0,2018-06-01,Gasolina,34922.0,Berlina,Manual,115.0,24.0,Blanco Perlado Metalizado,C,23
+470,NISSAN Qashqai 1.3 DIG-T ACENTA 103KW 140 5P,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Blanco S?lido,C,5
+471,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,21900.0,2018-12-01,Diesel,17000.0,Todo Terreno,Manual,110.0,24.0,-,C,17
+472,NISSAN Qashqai Berlina 150cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,23900.0,2019-04-01,Diesel,1400.0,Berlina mediana o grande,Manual,150.0,36.0,Rojo Sólido,C,13
+473,NISSAN Qashqai 1.2 DIG-T N-CONNECTA 5P,NISSAN,Qashqai,N-Connecta,4x2,16500.0,2018-05-01,Gasolina,19404.0,Berlina mediana o grande,Manual,115.0,12.0,-,C,24
+474,NISSAN Leaf TEKNA 40KWH 150 5P,NISSAN,Leaf,Tekna,4x2,24900.0,2019-01-01,Eléctrico,5581.0,Berlina mediana o grande,Automático,150.0,24.0,Blanco Perlado / Techo Negro Metalizado,0 EMISIONES,16
+475,NISSAN Qashqai Todoterreno 140cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,19400.0,2020-03-01,Gasolina,0.0,"4x4, SUV o pickup",Manual,140.0,Sí,-,C,2
+476,NISSAN Qashqai 1.3 DIG-T ACENTA 140 5P NSTYLE-,NISSAN,Qashqai,Acenta,4x2,17500.0,2019-01-01,Gasolina,33480.0,Berlina mediana o grande,Manual,140.0,24.0,GRIS METALIZADO,C,16
+477,NISSAN Qashqai 1.6dCi Tekna+ 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,23900.0,2017-12-01,Diesel,39672.0,Todo Terreno,Automático,130.0,12.0,EVAREST,C,29
+478,NISSAN X-Trail 1.3 DIG-T N-Connecta 4x2 DCT,NISSAN,X-Trail,N-Connecta,4x2,25900.0,2019-06-01,Gasolina,5000.0,Todo Terreno,Automático,160.0,0.0,Negro,C,11
+479,NISSAN Qashqai 1.3 DIG-T TEKNA 117KW 160 5P,NISSAN,Qashqai,Tekna,4x2,24900.0,2019-09-01,Gasolina,10.0,Berlina mediana o grande,Manual,160.0,0.0,Gris Metalizado,C,8
+480,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 117kW,NISSAN,Qashqai,N-Connecta,4x2,22900.0,2019-09-01,Gasolina,1.0,Todo Terreno,Manual,160.0,12.0,-,C,8
+481,NISSAN Micra 1.2 Acenta,NISSAN,Micra,Acenta,4x2,5980.0,2014-04-01,Gasolina,87124.0,Berlina,Manual,80.0,12.0,Blanco,C,73
+482,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,10990.0,2016-10-01,Diesel,74050.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,43
+483,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,21400.0,2020-03-01,Gasolina,0.0,Todo Terreno,Manual,140.0,Sí,-,C,2
+484,NISSAN X-Trail 1.6 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,17000.0,2017-02-01,Diesel,103680.0,Todo Terreno,Manual,130.0,Sí,Blanco Perlado (metalizado)                 / Metalizado,C,39
+485,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,12490.0,2017-04-01,Diesel,88210.0,Todo Terreno,Manual,110.0,12.0,Negro,C,37
+486,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,12850.0,2014-07-01,Diesel,59000.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,70
+487,NISSAN Pathfinder 2.5dCi XE 5pl.,NISSAN,,,4x2,8900.0,2006-08-01,Diesel,227700.0,Todo Terreno,Manual,174.0,6.0,Blanco,B,165
+488,NISSAN X-Trail 1.7 DCI TEKNA 110KW 150 5P,NISSAN,X-Trail,Tekna,4x2,28900.0,2019-11-01,Diesel,10.0,"4x4, SUV o pickup",Manual,150.0,0.0,Negro Diamante Metalizado,C,6
+489,NISSAN Pulsar 1.2 DIG-T Tekna XTronic,NISSAN,Pulsar,Tekna,4x2,12500.0,2016-01-01,Gasolina,55107.0,Berlina,Automático,115.0,12.0,Gris,C,52
+490,NISSAN Qashqai 1.3 DIG-T ACENTA 103KW 140 5P,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Negro Metalizado,C,5
+491,NISSAN Qashqai 1.5 DCI ACENTA 110 5P,NISSAN,Qashqai,Acenta,4x2,14990.0,2015-03-01,Diesel,56504.0,Berlina mediana o grande,Manual,110.0,12.0,BLANCO,C,62
+492,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,32000.0,2018-12-01,Eléctrico,20.0,Berlina,Automático,150.0,24.0,-,0 EMISIONES,17
+493,NISSAN Micra 1.5dCi S&S Tekna 90,NISSAN,Micra,Tekna,4x2,11995.0,2017-03-01,Diesel,39000.0,Berlina,Manual,90.0,12.0,-,C,38
+494,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,20900.0,2019-09-01,Gasolina,20700.0,Berlina mediana o grande,Manual,140.0,0.0,Azul Vivid Metalizado,C,8
+495,NISSAN X-Trail 1.6 dCi 360 4x4-i,NISSAN,X-Trail,,4x4,19800.0,2015-05-01,Diesel,56116.0,Todo Terreno,Manual,130.0,12.0,Verde,C,60
+496,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,11800.0,2018-03-01,Gasolina,28783.0,Berlina,Manual,115.0,12.0,Blanco Iceberg S?lido,C,26
+497,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,11800.0,2018-03-01,Gasolina,28783.0,Berlina,Manual,115.0,12.0,Blanco Iceberg S?lido,C,26
+498,NISSAN Qashqai 1.7 DCI N-CONNECTA 110KW 4WD AUTO 5P,NISSAN,Qashqai,N-Connecta,4x2,27900.0,2019-08-01,Diesel,1.0,Berlina mediana o grande,Automático,150.0,12.0,Gris Metalizado,C,9
+499,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,16499.0,2016-12-01,Diesel,71419.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,41
+500,NISSAN Qashqai 1.3 DIG-T Q-Line 4x2 103kW,NISSAN,Qashqai,,4x2,22500.0,2020-01-01,Gasolina,0.0,Todo Terreno,Manual,140.0,Sí,-,C,4
+501,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15700.0,2017-03-01,Diesel,41143.0,Todo Terreno,Manual,110.0,36.0,GRIS NEGRO,C,38
+502,NISSAN Qashqai  DIG-T 115 CV ACENTA,NISSAN,Qashqai,Acenta,4x2,15490.0,2018-07-01,Gasolina,31534.0,Berlina mediana o grande,Manual,115.0,12.0,Blanco Sólido,C,22
+503,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,15890.0,2017-03-01,Eléctrico,28000.0,Berlina,Automático,109.0,12.0,Blanco,0 EMISIONES,38
+504,NISSAN 370Z Deportivo 344cv Manual de 3 Puertas,NISSAN,,,4x2,36900.0,2018-07-01,Gasolina,8300.0,Deportivo o coupé,Manual,344.0,36.0,Blanco Perlado (metalizada autorreparadora),C,22
+505,NISSAN Qashqai 1.5dCi Tekna+ 4x2 85kW,NISSAN,Qashqai,Tekna,4x2,25500.0,2020-01-01,Diesel,26.0,Todo Terreno,Manual,115.0,36.0,Gris,C,4
+506,NISSAN Micra 1.0 G VISIA 52KW 71 5P,NISSAN,Micra,Visia,4x2,9900.0,2019-05-01,Gasolina,4652.0,Berlina mediana o grande,Manual,71.0,24.0,-,C,12
+507,NISSAN Qashqai 1.5 DCI ACENTA 110 5P,NISSAN,Qashqai,Acenta,4x2,14990.0,2015-03-01,Diesel,56504.0,Berlina mediana o grande,Manual,110.0,12.0,BLANCO,C,62
+508,NISSAN Micra 1.0 G ACENTA 52KW 71 5P,NISSAN,Micra,Acenta,4x2,10900.0,2019-03-01,Gasolina,3954.0,Berlina mediana o grande,Manual,71.0,24.0,-,C,14
+509,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,21500.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Blanco S?lido,C,5
+510,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,11800.0,2018-03-01,Gasolina,25557.0,Berlina,Manual,115.0,12.0,Gris Precision Metalizado,C,26
+511,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18300.0,2018-06-01,Gasolina,18189.0,Todo Terreno,Manual,115.0,24.0,BLANCO PERLADO,C,23
+512,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,23300.0,2019-01-01,Diesel,12.0,Todo Terreno,Manual,115.0,36.0,BLANCO SOLIDO                 / Metalizado,C,16
+513,NISSAN Qashqai 1.5dCi Tekna+ 4x2 85kW,NISSAN,Qashqai,Tekna,4x2,23750.0,2018-10-01,Diesel,5047.0,Todo Terreno,Manual,115.0,24.0,-,C,19
+514,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,11990.0,2017-01-01,Diesel,89708.0,Todo Terreno,Manual,110.0,Sí,Negro Malbec Metalizado                 / Metalizado,C,40
+515,NISSAN Qashqai 1.6dCi Tekna Premium 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,16350.0,2015-08-01,Diesel,152361.0,Todo Terreno,Automático,130.0,12.0,Blanco,C,57
+516,NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,NISSAN,Juke,N-Connecta,4x2,14900.0,2018-04-01,Gasolina,19292.0,Todo Terreno,Automático,117.0,36.0,Negro,C,25
+517,NISSAN Micra IG-T Tekna 100,NISSAN,Micra,Tekna,4x2,12250.0,2018-12-01,Gasolina,26069.0,Berlina,Manual,100.0,24.0,Azul,C,17
+518,NISSAN Qashqai 1.7 DCI TEKNA 110KW 150 5P,NISSAN,Qashqai,Tekna,4x2,25500.0,2019-07-01,Diesel,250.0,Berlina mediana o grande,Manual,150.0,0.0,Rojo Fusion Metalizado,C,10
+519,NISSAN Qashqai 1.3 DIG-T Tekna+ 4x2 103kW,NISSAN,Qashqai,Tekna,4x2,24000.0,2019-01-01,Gasolina,87.0,Todo Terreno,Manual,140.0,36.0,-,C,16
+520,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,11800.0,2018-03-01,Gasolina,29992.0,Berlina,Manual,115.0,12.0,Blanco Perlado Metalizado,C,26
+521,NISSAN Qashqai 1.6dCi Tekna+ 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,21980.0,2018-06-01,Diesel,38000.0,Todo Terreno,Automático,130.0,12.0,Negro,C,23
+522,NISSAN Pulsar 1.2 DIG-T Acenta,NISSAN,Pulsar,Acenta,4x2,12900.0,2018-06-01,Gasolina,31930.0,Berlina,Manual,115.0,24.0,Negro Azabache Metalizado,C,23
+523,NISSAN Juke DIG-T 86kW (117 CV) 6 M/T TEKNA,NISSAN,Juke,Tekna,4x2,22600.0,2019-12-01,Gasolina,10.0,"4x4, SUV o pickup",Manual,117.0,36.0,-,C,5
+524,NISSAN Micra 1.0 G Acenta 70,NISSAN,Micra,Acenta,4x2,11900.0,2019-11-01,Gasolina,10.0,Berlina,Manual,70.0,36.0,Azul,C,6
+525,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,15699.0,2017-07-01,Diesel,62635.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,34
+526,NISSAN Qashqai 1.3 DIG-T Acenta 4x2 103kW,NISSAN,Qashqai,Acenta,4x2,22200.0,2019-07-01,Gasolina,11.0,Todo Terreno,Manual,140.0,36.0,Blanco,C,10
+527,NISSAN Qashqai 1.6dCi 360 4x2,NISSAN,Qashqai,,4x2,14400.0,2016-01-01,Diesel,105017.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,52
+528,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,22900.0,2019-12-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,-,C,5
+529,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14500.0,2017-08-01,Eléctrico,28900.0,Berlina,Automático,109.0,Sí,-,0 EMISIONES,33
+530,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,7800.0,2017-02-01,Gasolina,62000.0,Berlina,Manual,90.0,12.0,Negro,C,39
+531,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,14900.0,2019-02-01,Diesel,19448.0,Todo Terreno,Manual,110.0,12.0,-,C,15
+532,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,15600.0,2016-09-01,Diesel,56052.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,44
+533,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,12500.0,2018-03-01,Gasolina,26020.0,Todo Terreno,Manual,115.0,12.0,Blanco Perlado Metalizado,C,26
+534,NISSAN X-Trail 1.6 dCi Acenta 4x4-i,NISSAN,X-Trail,Acenta,4x4,15990.0,2016-11-01,Diesel,64100.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+535,NISSAN Qashqai 1.6dCi Tekna+ 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,24400.0,2018-06-01,Diesel,16600.0,Todo Terreno,Automático,130.0,24.0,-,C,23
+536,NISSAN Qashqai 1.3 DIG-T N-Connecta 4x2 103kW,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2020-02-01,Gasolina,0.0,Todo Terreno,Manual,140.0,Sí,-,C,3
+537,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17900.0,2018-06-01,Gasolina,18300.0,Todo Terreno,Manual,115.0,48.0,-,C,23
+538,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,14900.0,2019-03-01,Diesel,13202.0,Todo Terreno,Manual,110.0,12.0,GRIS,C,14
+539,NISSAN Qashqai 1.5dCi Tekna Premium 4x2,NISSAN,Qashqai,Tekna,4x2,14490.0,2015-04-01,Diesel,69990.0,Todo Terreno,Manual,110.0,12.0,Negro,C,61
+540,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,12406.0,2017-03-01,Gasolina,57911.0,Todo Terreno,Manual,115.0,Sí,Blanco,C,38
+541,NISSAN Juke ACCENTA 1.2 DIG,NISSAN,Juke,,4x2,10700.0,2016-04-01,Gasolina,39000.0,"4x4, SUV o pickup",Manual,115.0,12.0,-,C,49
+542,NISSAN Qashqai 1.6dCi S&S Acenta 4x4,NISSAN,Qashqai,Acenta,4x4,17900.0,2015-07-01,Diesel,36649.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,58
+543,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,32000.0,2019-03-01,Eléctrico,2600.0,Berlina,Automático,150.0,36.0,-,0 EMISIONES,14
+544,NISSAN Qashqai Berlina 115cv Manual de 5 Puertas,NISSAN,Qashqai,,4x2,19900.0,2019-01-01,Diesel,47925.0,Berlina mediana o grande,Manual,115.0,20.0,Gris (metalizado),C,16
+545,NISSAN Qashqai 1.6 DIG-T Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,15950.0,2017-01-01,Gasolina,35000.0,Todo Terreno,Manual,163.0,12.0,-,C,40
+546,NISSAN Qashqai 1.3 DIG-T TEKNA 103KW 5P,NISSAN,Qashqai,Tekna,4x2,22500.0,2019-02-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,12.0,Blanco Perlado Metalizado,C,15
+547,NISSAN Leaf Acenta 30KWh,NISSAN,Leaf,Acenta,4x2,14900.0,2017-08-01,Eléctrico,54500.0,Berlina,Automático,109.0,36.0,Negro (metalizado),0 EMISIONES,33
+548,NISSAN X-Trail 1.6 dCi Acenta 4x2,NISSAN,X-Trail,Acenta,4x2,16300.0,2016-08-01,Diesel,45506.0,Todo Terreno,Manual,130.0,12.0,BLANCO,C,45
+549,NISSAN X-Trail 1.7 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,22740.0,2019-04-01,Diesel,19147.0,Todo Terreno,Manual,150.0,24.0,Negro,C,13
+550,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14500.0,2016-10-01,Diesel,69349.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,43
+551,NISSAN Qashqai 1.6dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,17400.0,2017-11-01,Diesel,31500.0,Todo Terreno,Manual,130.0,12.0,BRONCE                 / Metalizado,C,30
+552,NISSAN Qashqai 2.0dCi Acenta 4x4,NISSAN,Qashqai,Acenta,4x4,8990.0,2011-05-01,Diesel,156000.0,Todo Terreno,Manual,150.0,12.0,Blanco,B,108
+553,NISSAN Micra 1.5 DCI N-CONNECTA 90 5P,NISSAN,Micra,N-Connecta,4x2,14900.0,2019-05-01,Diesel,2295.0,Berlina mediana o grande,Manual,90.0,24.0,-,C,12
+554,NISSAN Juke 1.6 DIG-T Tekna Premium,NISSAN,Juke,Tekna,4x2,14500.0,2015-06-01,Gasolina,59900.0,Todo Terreno,Manual,190.0,12.0,Azul,C,59
+555,NISSAN Micra 1.5dCi S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,13900.0,2019-01-01,Diesel,578.0,Berlina,Manual,90.0,36.0,NARANJA                 / Metalizado,C,16
+556,NISSAN Leaf 40 kWh Tekna,NISSAN,Leaf,Tekna,4x2,29000.0,2019-05-01,Eléctrico,3567.0,Berlina,Automático,150.0,Sí,-,0 EMISIONES,12
+557,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18900.0,2018-06-01,Gasolina,8746.0,Todo Terreno,Manual,115.0,24.0,-,C,23
+558,NISSAN Micra  IG-T 74 kW (100 CV) E6D Acenta,NISSAN,Micra,Acenta,4x2,12350.0,2018-11-01,Gasolina,22910.0,Berlina mediana o grande,Manual,100.0,19.0,Enigma Black (metalizado)                 / Metalizado,C,18
+559,NISSAN Qashqai 1.2 DIG-T N-CONNECTA 5P,NISSAN,Qashqai,N-Connecta,4x2,16500.0,2018-05-01,Gasolina,16837.0,Berlina mediana o grande,Manual,115.0,12.0,BLANCO PERLADO,C,24
+560,NISSAN Qashqai  DIG-T 103 KW (140 CV) E6D 6M/T 4X2,NISSAN,Qashqai,,4x2,20900.0,2019-11-01,Gasolina,0.0,,Manual,140.0,0.0,-,C,6
+561,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,12490.0,2017-01-01,Diesel,33984.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,40
+562,NISSAN Qashqai 1.3 DIG-T 103KW Q-LINE 140 5P,NISSAN,Qashqai,,4x2,23900.0,2019-08-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,0.0,Negro Metalizado,C,9
+563,NISSAN Qashqai 1.6dCi 360 4x2 XTronic,NISSAN,Qashqai,,4x2,16500.0,2015-10-01,Diesel,114000.0,Todo Terreno,Automático,130.0,12.0,Blanco,C,55
+564,NISSAN Qashqai Q+2 1.5dCi Tekna Sport 4x2 17´´,NISSAN,Qashqai,Tekna,4x2,7200.0,2009-09-01,Diesel,220000.0,Todo Terreno,Manual,104.0,0.0,Blanco,B,128
+565,NISSAN Qashqai 1.3DIG-T 140CV 2WD MT EURO6D ACENTA,NISSAN,Qashqai,Acenta,4x2,19500.0,2019-09-01,Gasolina,1.0,"4x4, SUV o pickup",Manual,140.0,12.0,Gris Metalizado,C,8
+566,NISSAN Qashqai 1.2 DIG-T N-CONNECTA 5P,NISSAN,Qashqai,N-Connecta,4x2,16500.0,2018-05-01,Gasolina,14562.0,Berlina mediana o grande,Manual,115.0,12.0,BLANCO PERLADO,C,24
+567,NISSAN X-Trail 2.0 dCi Tekna 4x2 XTronic,NISSAN,X-Trail,Tekna,4x2,26990.0,2018-01-01,Diesel,14500.0,Todo Terreno,Automático,177.0,12.0,Rojo                 / Metalizado,C,28
+568,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,18900.0,2018-06-01,Gasolina,17058.0,Todo Terreno,Manual,115.0,12.0,BLANCO PERLADO,C,23
+569,NISSAN X-Trail Todoterreno 150cv Manual de 5 Puertas,NISSAN,X-Trail,,4x2,21900.0,2019-05-01,Diesel,20.0,"4x4, SUV o pickup",Manual,150.0,36.0,Rojo Volcán (sólido),C,12
+570,NISSAN Juke 1.6 N-Connecta 4x2 XTronic 117,NISSAN,Juke,N-Connecta,4x2,11990.0,2017-01-01,Gasolina,79205.0,Todo Terreno,Automático,117.0,12.0,Negro                 / Metalizado,C,40
+571,NISSAN X-Trail 1.6 dCi N-Connecta 4x2,NISSAN,X-Trail,N-Connecta,4x2,17490.0,2017-01-01,Diesel,99990.0,Todo Terreno,Manual,130.0,12.0,Plata,C,40
+572,NISSAN Qashqai dCi 81 kW (110 CV) ACENTA,NISSAN,Qashqai,Acenta,4x2,17200.0,2017-12-01,Diesel,28000.0,"4x4, SUV o pickup",Manual,110.0,12.0,-,C,29
+573,NISSAN Juke 1.5dCi N-Connecta 4x2,NISSAN,Juke,N-Connecta,4x2,14900.0,2019-03-01,Diesel,15401.0,Todo Terreno,Manual,110.0,12.0,PLATA,C,14
+574,NISSAN X-Trail 1.7 dCi N-Connecta 4x2 CVT,NISSAN,X-Trail,N-Connecta,4x2,27500.0,2019-09-01,Diesel,1.0,Todo Terreno,Automático,150.0,12.0,Blanco Perlado Metalizado,C,8
+575,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,20900.0,2019-06-01,Gasolina,12500.0,Berlina mediana o grande,Manual,140.0,0.0,Rojo Fusion Metalizado,C,11
+576,NISSAN Qashqai 2.0dCi Tekna Sport 4x4 A/T 18´´,NISSAN,Qashqai,Tekna,4x4,11990.0,2012-01-01,Diesel,68573.0,Todo Terreno,Automático,150.0,12.0,Plata Cosmos Metalizado,B,100
+577,NISSAN X-Trail  dCi 130CV (96kW) XTRONIC 360,NISSAN,X-Trail,,4x2,13950.0,2015-08-01,Diesel,186730.0,"4x4, SUV o pickup",Automático,130.0,12.0,Blanco,C,57
+578,NISSAN Leaf 40 kWh Acenta,NISSAN,Leaf,Acenta,4x2,28200.0,2020-02-01,Eléctrico,85.0,Berlina,Automático,150.0,Sí,Negro (metalizado)                 / Metalizado,0 EMISIONES,3
+579,NISSAN Juke 1.5dCi Acenta 4x2,NISSAN,Juke,Acenta,4x2,11300.0,2017-03-01,Diesel,38718.0,Todo Terreno,Manual,110.0,12.0,Blanco,C,38
+580,NISSAN Micra IG-T S&S Acenta 90,NISSAN,Micra,Acenta,4x2,9400.0,2017-05-01,Gasolina,69591.0,Berlina,Manual,90.0,12.0,-,C,36
+581,NISSAN Qashqai NUEVO  5P DCI 81 KW (110 CV) 6M/T 4X2 TEKNA,NISSAN,Qashqai,Tekna,4x2,20900.0,2018-09-01,Diesel,11000.0,Berlina mediana o grande,Manual,110.0,0.0,Blanco Perlado Metalizado,C,20
+582,NISSAN Qashqai  DIG-T 103 KW (140 CV) E6D 6M/T 4X2,NISSAN,Qashqai,,4x2,20900.0,2019-05-01,Gasolina,0.0,,Manual,140.0,0.0,-,C,12
+583,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,12750.0,2017-08-01,Gasolina,19803.0,Todo Terreno,Manual,115.0,Sí,Blanco Perlado                 / Metalizado,C,33
+584,NISSAN X-Trail 1.6 dCi Acenta 4x4-i,NISSAN,X-Trail,Acenta,4x4,18300.0,2016-04-01,Diesel,68590.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,49
+585,NISSAN Juke 1.2 DIG-T N-Connecta 4x2 115,NISSAN,Juke,N-Connecta,4x2,11900.0,2016-06-01,Gasolina,39600.0,Todo Terreno,Manual,115.0,12.0,Rojo Sólido,C,47
+586,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,8400.0,2010-02-01,Diesel,123000.0,Todo Terreno,Manual,106.0,12.0,Negro,B,123
+587,NISSAN Qashqai 1.6dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,20900.0,2018-07-01,Diesel,44042.0,Todo Terreno,Manual,130.0,12.0,Negro,C,22
+588,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,14454.0,2016-04-01,Gasolina,80833.0,Todo Terreno,Manual,115.0,12.0,Gris                 / Metalizado,C,49
+589,NISSAN Micra 1.0 IG-T ACENTA 100 5P,NISSAN,Micra,Acenta,4x2,11250.0,2019-01-01,Gasolina,20257.0,Berlina mediana o grande,Manual,100.0,12.0,-,C,16
+590,NISSAN X-Trail 5P DCI 110 KW (150 CV) E6D TEKNA,NISSAN,X-Trail,Tekna,4x2,26900.0,2019-07-01,Diesel,7239.0,Familiar,Manual,150.0,Sí,Gris metalizado                 / Metalizado,C,10
+591,NISSAN Juke 1.6 N-Connecta 4x2 112,NISSAN,Juke,N-Connecta,4x2,14300.0,2019-04-01,Gasolina,7000.0,Todo Terreno,Manual,112.0,12.0,Negro Metalizado,C,13
+592,NISSAN Qashqai 1.6dCi Acenta 4x4-i,NISSAN,Qashqai,Acenta,4x4,14700.0,2016-11-01,Diesel,63688.0,Todo Terreno,Manual,130.0,12.0,Blanco,C,42
+593,NISSAN Qashqai 1.5dCi N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,19300.0,2018-05-01,Diesel,54415.0,Todo Terreno,Manual,110.0,12.0,Negro,C,24
+594,NISSAN Micra 1.5dCi S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,11190.0,2017-05-01,Diesel,23700.0,Berlina,Manual,90.0,12.0,Enigma Black (metalizado),C,36
+595,NISSAN Micra 1.2 Acenta,NISSAN,Micra,Acenta,4x2,7700.0,2017-03-01,Gasolina,49712.0,Berlina,Manual,80.0,12.0,BLANCO,C,38
+596,NISSAN Juke 1.6 DIG-T Tekna 4x2 190,NISSAN,Juke,Tekna,4x2,13500.0,2016-02-01,Gasolina,83000.0,Todo Terreno,Manual,190.0,12.0,Blanco,C,51
+597,NISSAN Qashqai 1.6 DCI TEKNA+ AUTO 5P,NISSAN,Qashqai,Tekna,4x2,23500.0,2018-06-01,Diesel,13815.0,Berlina mediana o grande,Automático,130.0,12.0,NEGRO ZAINO,C,23
+598,NISSAN Qashqai 1.3DIG-T 140CV 2WD MT EURO6D ACENTA BARRAS+LLANTAS 18,NISSAN,Qashqai,Acenta,4x2,19900.0,2019-09-01,Gasolina,1.0,Berlina mediana o grande,Manual,140.0,12.0,Negro Metalizado,C,8
+599,NISSAN Qashqai 1.6dCi Tekna+ 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,20799.0,2018-01-01,Diesel,26707.0,Todo Terreno,Automático,130.0,12.0,Gris,C,28
+600,NISSAN Micra 1.5dCi S&S Visia+ 90,NISSAN,Micra,Visia,4x2,13200.0,2019-10-01,Diesel,16.0,Berlina,Manual,90.0,36.0,AZUL                 / Metalizado,C,7
+601,NISSAN Leaf Acenta,NISSAN,Leaf,Acenta,4x2,10900.0,2013-10-01,Eléctrico,49896.0,Berlina,Automático,109.0,12.0,-,0 EMISIONES,79
+602,NISSAN Micra IG-T Acenta 100,NISSAN,Micra,Acenta,4x2,12600.0,2019-07-01,Gasolina,20.0,Berlina,Manual,100.0,36.0,-,C,10
+603,NISSAN Qashqai 1.2 DIG-T N-Connecta 4x2,NISSAN,Qashqai,N-Connecta,4x2,17900.0,2018-06-01,Gasolina,36400.0,Todo Terreno,Manual,115.0,36.0,-,C,23
+604,NISSAN Qashqai 1.6dCi Tekna+ 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,29000.0,2019-06-01,Diesel,1250.0,Todo Terreno,Automático,130.0,36.0,-,C,11
+605,NISSAN Qashqai 1.6dCi Tekna 4x2 XTronic,NISSAN,Qashqai,Tekna,4x2,19990.0,2017-05-01,Diesel,17500.0,Todo Terreno,Automático,130.0,12.0,Negro Amatista Metalizado,C,36
+606,NISSAN Micra 1.5dCi S&S N-Connecta 90,NISSAN,Micra,N-Connecta,4x2,11490.0,2017-06-01,Diesel,17910.0,Berlina,Manual,90.0,12.0,Enigma Black (metalizado),C,35
+607,NISSAN Pulsar 1.2 DIG-T N-Connecta,NISSAN,Pulsar,N-Connecta,4x2,11990.0,2017-03-01,Gasolina,50000.0,Berlina,Manual,115.0,12.0,GRIS PRECISIoN,C,38
+608,NISSAN Qashqai 1.2 DIG-T N-CONNECTA 115 5P,NISSAN,Qashqai,N-Connecta,4x2,16900.0,2018-06-01,Gasolina,18983.0,Berlina mediana o grande,Manual,115.0,0.0,GRIS,C,23
+609,NISSAN Qashqai 1.3 DIG-T N-CONNECTA 103KW 140 5P,NISSAN,Qashqai,N-Connecta,4x2,20900.0,2019-06-01,Gasolina,4500.0,Berlina mediana o grande,Manual,140.0,0.0,Negro Metalizado,C,11
+610,NISSAN Qashqai 1.5 DCI N-MOTION 115 5P,NISSAN,Qashqai,,4x2,21900.0,2019-10-01,Diesel,8500.0,Berlina mediana o grande,Manual,115.0,0.0,Blanco Perlado Metalizado,C,7
+611,NISSAN X-Trail 1.6 dCi 360 4x2,NISSAN,X-Trail,,4x2,15690.0,2016-01-01,Diesel,107548.0,Todo Terreno,Manual,130.0,12.0,-,C,52
+612,NISSAN Juke 1.2 DIG-T Acenta 4x2 115,NISSAN,Juke,Acenta,4x2,10975.0,2018-01-01,Gasolina,80653.0,Todo Terreno,Manual,115.0,12.0,Negro,C,28
+613,NISSAN Juke 1.6i Acenta CVT,NISSAN,Juke,Acenta,4x2,9500.0,2012-07-01,Gasolina,72410.0,Todo Terreno,Automático,117.0,12.0,BLANCO SOLIDO,C,94
+614,NISSAN Qashqai 1.3DIG-T 140CV 2WD MT EURO6D TEKNA TECHO,NISSAN,Qashqai,Tekna,4x2,22500.0,2019-02-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,12.0,Negro Metalizado,C,15
+615,NISSAN Qashqai 1.3DIG-T 140CV 2WD MT EURO6D TEKNA TECHO,NISSAN,Qashqai,Tekna,4x2,22500.0,2019-02-01,Gasolina,10.0,Berlina mediana o grande,Manual,140.0,12.0,Gris Metalizado,C,15
+616,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,13900.0,2017-02-01,Diesel,37061.0,Todo Terreno,Manual,110.0,12.0,Granate                 / Metalizado,C,39
+617,NISSAN Pathfinder 2.5dCi LE,NISSAN,,,4x2,6999.0,2007-01-01,Diesel,350000.0,Todo Terreno,Manual,171.0,12.0,Blanco,B,160
+618,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,21900.0,2020-01-01,Diesel,0.0,Todo Terreno,Manual,115.0,Sí,-,C,4
+619,NISSAN Qashqai 1.5 DCI 85KW DCT N-CONNECTA 115 5P,NISSAN,Qashqai,N-Connecta,4x2,22500.0,2019-05-01,Diesel,14585.0,Berlina mediana o grande,Automático,115.0,0.0,-,C,12
+620,NISSAN Pulsar 1.5 dCi Visia,NISSAN,Pulsar,Visia,4x2,9900.0,2016-03-01,Diesel,92400.0,Berlina,Manual,110.0,12.0,-,C,50
+621,NISSAN Qashqai 1.5dCi Acenta 4x2,NISSAN,Qashqai,Acenta,4x2,18300.0,2019-01-01,Diesel,38500.0,Todo Terreno,Manual,110.0,Sí,Azul Ultramar                 / Metalizado,C,16
+622,NISSAN Qashqai dCi 81 kW (110 CV) ACENTA,NISSAN,Qashqai,Acenta,4x2,16100.0,2018-02-01,Diesel,26000.0,"4x4, SUV o pickup",Manual,110.0,12.0,-,C,27
+623,NISSAN Qashqai 1.5dCi N-Connecta 4x2 85kW,NISSAN,Qashqai,N-Connecta,4x2,21200.0,2019-11-01,Diesel,0.0,Todo Terreno,Manual,115.0,Sí,-,C,6
+624,NISSAN Juke 1.6 Tekna 4x2 XTronic CVT 112,NISSAN,Juke,Tekna,4x2,16400.0,2018-10-01,Gasolina,6290.0,Todo Terreno,Automático,112.0,12.0,-,C,19

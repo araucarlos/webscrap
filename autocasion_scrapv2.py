@@ -19,7 +19,7 @@ import matplotlib as plt
 
 Result=[]
 driver = webdriver.Chrome()
-pages = np.arange(1, 5, 1)
+pages = np.arange(1, 2, 1)
 
 for page in pages:     
     url="https://www.autocasion.com/coches-segunda-mano/nissan-ocasion?page="+str(page)
@@ -101,7 +101,10 @@ for i, row in tf.iterrows():
     row[8]=row[8].strip(" ")
     row[8]=row[8].replace(".","")
     row[8]=float(row[8])
-    row[11]=float(row[11])
+    try:
+        row[11]=float(row[11])
+    except:
+        row[11]=""
     if len(row[6])==4:
         row[6]="01/"+row[6]
     else:
