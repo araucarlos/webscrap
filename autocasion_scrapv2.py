@@ -45,13 +45,13 @@ df=pd.DataFrame(Result)
 
 
 tf=df
-tf=tf.drop(columns=[2,4,6,8,10,12,14,16,18])
-tf.columns=["Vehiculo","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Color","Distintivo ambiental"]
+tf=tf.drop(columns=[2,4,6,8,10,12,14,16,17,18])
+tf.columns=["Vehiculo","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Distintivo ambiental"]
 tf["Marca"]=""
 tf["Modelo"]=""
 tf["Version"]=""
 tf["Traccion"]=""
-column_names = ["Vehiculo", "Marca", "Modelo","Version","Traccion","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Color","Distintivo ambiental"]
+column_names = ["Vehiculo", "Marca", "Modelo","Version","Traccion","Precio","Fecha matriculacion","Combustible","km","Carroceria","Cambio","Potencia","Garantia","Distintivo ambiental"]
 tf = tf.reindex(columns=column_names)
 
 
@@ -75,6 +75,8 @@ for i, row in tf.iterrows():
         row[2]="Navara"
     elif "murano" in row[0].lower():
         row[2]="Murano"  
+    elif "pathfinder" in row[0].lower():
+        row[2]="Pathfinder"  
     else:
         row[2]=""
     if "visia" in row[0].lower():
@@ -110,7 +112,7 @@ for i, row in tf.iterrows():
     else:
         pass
     if row[12]=="Sí":
-        pass
+        row[12]=float(12)
     elif row[12]=="No":
         row[12]=float(0)
     else:

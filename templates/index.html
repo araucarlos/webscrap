@@ -1,0 +1,51 @@
+{%extends "layout.html"%}
+{%block title%}
+	Nissan
+{%endblock%}
+{%block body%}
+	<h1>Coches Nissan Segunda Mano</h1>
+	<table class="table">
+	  <thead>
+	    <tr>
+	      <th scope="col">id</th>
+	      <th scope="col">Vehiculo</th>
+	      <th scope="col">Marca</th>
+	      <th scope="col">Modelo</th>
+	      <th scope="col">Acabado</th>
+	      <th scope="col">Traccion</th>
+	      <th scope="col">Precio</th>
+	      <th scope="col">Fecha Matrícula</th>
+	      <th scope="col">Combustible</th>
+	      <th scope="col">km</th>
+	      <th scope="col">Carrocería</th>
+	      <th scope="col">Cambio</th>
+	      <th scope="col">Potencia</th>
+	      <th scope="col">Garantía</th>
+	      <th scope="col">Distintivo ambiental</th>
+	      <th scope="col">Meses</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    {%for result in results%}
+	    	<tr>
+	    		<td>{{result.vehicle_id}}</td>
+	    		<td>{{result.vehiculo}}</td>
+	    		<td>{{result.marca}}</td>
+	    		<td>{{result.modelo}}</td>
+	    		<td>{{result.acabado}}</td>
+	    		<td>{{result.traccion}}</td>
+	    		<td>{{result.precio}}</td>
+	    		<td>{{result.fecha_matriculacion}}</td>
+	    		<td>{{result.combustible}}</td>
+	    		<td>{{result.km}}</td>
+	    		<td>{{result.carroceria}}</td>
+	    		<td>{{result.cambio}}</td>
+	    		<td>{{result.potencia}}</td>
+	    		<td>{{result.garantia}}</td>
+	    		<td>{{result.distintivo_ambiental}}</td>
+	    		<td>{{result.meses}}</td>
+	    	</tr>
+	    {%endfor%}
+	  </tbody>
+	</table>
+{%endblock%}
