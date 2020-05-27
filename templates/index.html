@@ -1,0 +1,44 @@
+{%extends "layout.html"%}
+{%block title%}
+	Nissan
+{%endblock%}
+{%block body%}
+	<h1>
+  		Nissan
+  		<small class="text-muted">Used Car Browser</small>
+	</h1>
+  	<form class="form-row" action="{{url_for('resultados')}}" method="post">
+  		<div class="form-group">
+  			<label class="my-1 mr-2" for="inlineFormCustomSelectPref">Brand</label>
+  			<select class="custom-select my-1 mr-sm-2" name="marca">
+    			<option selected>Choose...</option>
+    			{%for marca in marcas%}
+    				<option value="{{marca.marca}}">{{marca.marca}}</option>
+    			{%endfor%}
+  			</select>
+  		</div>
+  		<div class="form-group">
+  			<label class="my-1 mr-2" for="inlineFormCustomSelectPref">Model</label>
+  			<select class="custom-select my-1 mr-sm-2" name="modelo">
+    			<option selected>Choose...</option>
+    			{%for modelo in modelos%}
+    				<option value="{{modelo.modelo}}">{{modelo.modelo}}</option>
+    			{%endfor%}
+  			</select>
+  		</div>
+  		<div class="form-group">
+  			<label class="my-1 mr-2" for="inlineFormCustomSelectPref">Fuel</label>
+  			<select class="custom-select my-1 mr-sm-2" name="combustible">
+    			<option selected>Choose...</option>
+    			{%for combustible in combustible%}
+    				<option value="{{combustible.combustible}}">{{combustible.combustible}}</option>
+    			{%endfor%}
+  			</select>
+  		</div>
+  		<div class="form-group">
+  			<button type="submit" class = "btn btn-primary">Browse</button>
+  		</div>  				
+  	</form>
+{%endblock%}
+
+
