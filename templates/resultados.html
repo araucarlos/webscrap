@@ -1,125 +1,244 @@
-{%extends "layout.html"%}
-{%block title%}
-	Nissan
-{%endblock%}
-{%block body%}
-	<h1>
-  		Nissan
-  		<small class="text-muted">Used Car Browser</small>
-	</h1>
-	<h3>{{marca}}, {{modelo}}, {{combustible}}</h3>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
-	<table class="table">
-	  <thead>
-	    <tr>
-	      <th scope="col">id</th>
-	      <th scope="col">Vehicle</th>
-	      <th scope="col">Brand</th>
-	      <th scope="col">Model</th>
-	      <th scope="col">Grade</th>
-	      <th scope="col">Drive wheels</th>
-	      <th scope="col">Price</th>
-	      <th scope="col">Registration date</th>
-	      <th scope="col">Fuel</th>
-	      <th scope="col">Mileage</th>
-	      <th scope="col">Body type</th>
-	      <th scope="col">Transmission</th>
-	      <th scope="col">Horse-power</th>
-	      <th scope="col">Warranty</th>
-	      <th scope="col">Eco-label</th>
-	      <th scope="col">Months</th>
-	    </tr>
-	  </thead>
-	  <tbody>
-	    {%for result in results%}
-	    	<tr>
-	    		<td>{{result.id}}</td>
-	    		<td>{{result.vehicle}}</td>
-	    		<td>{{result.brand}}</td>
-	    		<td>{{result.model}}</td>
-	    		<td>{{result.grade}}</td>
-	    		<td>{{result.drive}}</td>
-	    		<td>{{result.price}}</td>
-	    		<td>{{result.registration_date}}</td>
-	    		<td>{{result.fuel}}</td>
-	    		<td>{{result.mileage}}</td>
-	    		<td>{{result.body_type}}</td>
-	    		<td>{{result.transmission}}</td>
-	    		<td>{{result.horse_power}}</td>
-	    		<td>{{result.warranty}}</td>
-	    		<td>{{result.eco_label}}</td>
-	    		<td>{{result.months}}</td>
-	    	</tr>
-	    {%endfor%}
-	  </tbody>
-	</table>
-	<canvas id="myChart" width="1112" height="400"></canvas>
-	<script>
-		// Global parameters:
-		// do not resize the chart canvas when its container does (keep at 600x400px)
-		Chart.defaults.global.responsive = false;
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Nissan Used Car Browser</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+		<style>
+			@font-face {
+			  font-family: Montserrat-Regular;
+			  src: url('/static/fonts/montserrat/Montserrat-Regular.ttf'); 
+			}
 
-		// get chart canvas
-		var ctx = document.getElementById("myChart").getContext("2d");
+			@font-face {
+			  font-family: Montserrat-Bold;
+			  src: url('/static/fonts/montserrat/Montserrat-Bold.ttf'); 
+			}
 
-		// create the chart using the chart canvas
-		var scatterChart = new Chart(ctx, {
-			type: 'scatter',
-			data: {
-				datasets: [{
-					pointBorderColor: "rgba(0, 0, 0, 0.6)",
-			      pointBackgroundColor: "rgba(0, 0, 0, 0.6)",
-			      pointBorderWidth: 1,
-			      pointHoverRadius: 5,
-			      pointHoverBackgroundColor: "rgba(0, 0, 0, 0.9)",
-			      pointHoverBorderColor: "rgba(255, 0, 0, 0.9)",
-			      pointHoverBorderWidth: 3,
-			      pointRadius: 3,
-			      pointHitRadius: 10,
-			      data: [
-			      	{% for result in results %}
-			      	{
-							x:
-			            	{{result.months}},
-							y:
-			            	{{result.price}}
-			         },
-			         {% endfor %}
-					]
-			   }]
-			},
-			options: {
-			   scales: {
-			      xAxes: [{
-			      	scaleLabel: {
-            			display: true,
-            			labelString: 'Months'
-            		},
-			         type: 'linear',
-			         position: 'bottom',
-			         gridLines: { display: false, drawBorder: true }
-			      }],
-			      yAxes: [{
-			      	scaleLabel: {
-            			display: true,
-            			labelString: 'Price'
-            		},
-			      	type: 'linear',
-			         position: 'left',
-			         gridLines: { display: false, drawBorder: true }
-			      }]
-			   },
-            title: {
-                display: true,
-                text: 'Price vs Months'
-            },
-            legend: {
-            	display: false,
-				}
-			}	
-		})	
-  	</script>	
-	<form action="{{url_for('index')}}" method="post">
-		<button class="btn btn-default">Back</button>
-	</form>
-{%endblock%}
+			@font-face {
+			  font-family: Montserrat-Black;
+			  src: url('/static/fonts/montserrat/Montserrat-Black.ttf'); 
+			}
+
+			@font-face {
+			  font-family: Montserrat-SemiBold;
+			  src: url('/static/fonts/montserrat/Montserrat-SemiBold.ttf'); 
+			}
+
+			@font-face {
+			  font-family: Montserrat-Medium;
+			  src: url('/static/fonts/montserrat/Montserrat-Medium.ttf'); 
+			}
+
+			.collapsible {
+				background-color: #eee;
+				color: #444;
+				cursor: pointer;
+				padding: 18px;
+				width: 100%;
+				border: none;
+				text-align: left;
+				outline: none;
+				font-size: 15px;
+			}
+
+			.active, .collapsible:hover {
+  				background-color: #ccc;
+			}
+
+			.content {
+  				padding: 0 18px;
+ 				display: none;
+  				overflow: hidden;
+  				background-color: #f1f1f1;
+			}
+		</style>
+		<script>
+			document.addEventListener('DOMContentLoaded', function(){
+				const canv = document.getElementById("myChart");
+				canv.width = window.innerWidth;
+			})
+		</script>
+	    <script>
+	    	document.addEventListener('DOMContentLoaded', function(){
+		    	const but = document.querySelector(".predict");
+		    	but.addEventListener('click', function() {
+			        let model = document.getElementById('model').innerHTML;
+			        let fuel = document.getElementById('fuel').innerHTML;
+			        let months = document.getElementById('months').value;
+			        let mileage = document.getElementById('mileage').value;
+			        let prediction = document.getElementById('prediction');
+			        let request = new XMLHttpRequest();
+			        request.open('GET', '/' + model + '/' + fuel + '/' + months + '/' + mileage );
+			        request.send();
+			        request.onload = function() {
+			            let data = JSON.parse(request.responseText);
+			            let h1HTML = 'Estimated Price : ' + data.prediction + '€'  
+			            prediction.innerHTML = h1HTML;
+			        }
+		      	})
+		    })
+	    </script>
+	</head>
+	<body>
+		<div class="container" style= "font-family:Montserrat-Bold; background: #e6e6e6; width: 100%">
+			<h1 style= "font-family:Montserrat-Bold">
+		  		Nissan Used Car Browser
+			</h1>
+			<button type="button" id="expand" class="collapsible">Open/Hide Table</button>
+			<div class="content">
+				<table class="table" style="width: 100%; height: 100%; table-layout: fixed; word-wrap: break-word; font-size: 12px">
+					<thead>
+						<tr>
+					      	<th scope="col" style="width: 9%">Vehicle</th>
+					   	   	<th scope="col">Brand</th>
+					   		<th scope="col">Model</th>
+					 		<th scope="col" style="width: 9%">Grade</th>
+					      	<th scope="col">Drive wheels</th>
+					      	<th scope="col">Price</th>
+					      	<th scope="col" style="width: 8%">Registration date</th>
+					      	<th scope="col">Fuel</th>
+					      	<th scope="col">Mileage</th>
+					      	<th scope="col">Body type</th>
+					      	<th scope="col" style="width: 9%">Transmission</th>
+					      	<th scope="col">Horse-power</th>
+					      	<th scope="col" style="width: 7%">Warranty</th>
+					      	<th scope="col">Eco-label</th>
+					      	<th scope="col">Months</th>
+		    			</tr>
+		    		</thead>
+					<tbody style="font-family: Montserrat-Regular">
+		    			{%for result in results%}
+					    	<tr>
+					    		<td>{{result.vehicle}}</td>
+					    		<td>{{result.brand}}</td>
+					    		<td id="model">{{result.model}}</td>
+					    		<td>{{result.grade}}</td>
+					    		<td>{{result.drive}}</td>
+					    		<td>{{result.price}}</td>
+					    		<td>{{result.registration_date}}</td>
+					    		<td id="fuel">{{result.fuel}}</td>
+					    		<td>{{result.mileage}}</td>
+					    		<td>{{result.body_type}}</td>
+					    		<td>{{result.transmission}}</td>
+					    		<td>{{result.horse_power}}</td>
+					    		<td>{{result.warranty}}</td>
+					    		<td>{{result.eco_label}}</td>
+					    		<td>{{result.months}}</td>
+					    	</tr>
+	    				{%endfor%}
+	    			</tbody>
+				</table>
+			</div>
+		</div>
+		<script>
+			var coll = document.getElementById("expand");
+			coll.addEventListener("click", function() {
+			    var content = this.nextElementSibling;
+			    if (content.style.display === "block") {
+			      content.style.display = "none";
+			    } else {
+			      content.style.display = "block";
+			    }
+			})
+		</script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+		<div style="width:100%; text-align:center; padding-left:30px">
+			<canvas id="myChart" width="1112" height="400"></canvas>
+			<script>
+				// Global parameters:
+				// do not resize the chart canvas when its container does (keep at 600x400px)
+				Chart.defaults.global.responsive = false;
+
+				Chart.defaults.global.defaultFontFamily = "Montserrat-Regular";
+
+				// get chart canvas
+				var ctx = document.getElementById("myChart").getContext("2d");
+
+				// create the chart using the chart canvas
+				var scatterChart = new Chart(ctx, {
+					type: 'scatter',
+					data: {
+						datasets: [{
+							pointBorderColor: "rgba(0, 0, 0, 0.6)",
+					    	pointBackgroundColor: "rgba(0, 0, 0, 0.6)",
+					    	pointBorderWidth: 1,
+					    	pointHoverRadius: 5,
+					    	pointHoverBackgroundColor: "rgba(0, 0, 0, 0.9)",
+					    	pointHoverBorderColor: "rgba(255, 0, 0, 0.9)",
+					    	pointHoverBorderWidth: 3,
+					    	pointRadius: 3,
+					    	pointHitRadius: 10,
+					    	data: [
+			      				{% for result in results %}
+			      					{
+										x:
+						            	{{result.months}},
+										y:
+						            	{{result.price}}
+			        				 },
+			         			{% endfor %}
+							]
+					   	}]
+					},
+					options: {
+						scales: {
+					    	xAxes: [{
+					      		scaleLabel: {
+		            				display: true,
+		            				labelString: 'Months',
+		            				fontSize: 13, 
+					        		fontFamily: 'Montserrat-Medium',
+		            			},
+					         	type: 'linear',
+					         	position: 'bottom',
+					         	gridLines: { display: false, drawBorder: true },
+					         	ticks: {
+					         		fontSize: 12, 
+					         		fontFamily: 'Montserrat-Medium'
+					         	}
+					      	}],
+					      	yAxes: [{
+					      		scaleLabel: {
+		            				display: true,
+		            				labelString: 'Price',
+		            				fontSize: 13, 
+					        		fontFamily: 'Montserrat-Medium',
+		            			},
+					      		type: 'linear',
+					         	position: 'left',
+					         	gridLines: { display: false, drawBorder: true },
+					         	ticks: {
+					         		fontSize: 12, 
+					         		fontFamily: 'Montserrat-Medium'
+					         	}
+					      	}]
+					   	},
+		            	title: {
+		                	display: true,
+		                	text: 'Price vs Months',
+					        fontSize: 15, 
+					        fontFamily: 'Montserrat-Bold',
+		            	},
+		            	legend: {
+		            		display: false,
+						}
+					}	
+				})
+		  	</script>
+		</div>
+		<div style="padding-left:10px; padding-bottom:10px; padding-top:10px">
+			<h1 style="font-family:Montserrat-Bold; font-size:20px">Price Calculator</h1>
+			<div style="font-family:Montserrat-Bold">
+				<input id="months" type="number" placeholder="months"/>
+				<input id="mileage" type="number" placeholder="mileage"/>
+				<button class="predict">Calculate</button>
+			</div>
+			<div style="padding-top:10px">
+				<p id="prediction" style="font-family:Montserrat-Bold; font-size:15px"></p>
+			</div>
+		</div>
+		<form action="{{url_for('index')}}" method="post" style="font-family:Montserrat-Bold; padding-left:10px; padding-bottom:10px">
+			<button class="btn btn-default btn-sm">Back</button>
+		</form>	
+	</body>
+</html>
