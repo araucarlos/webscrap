@@ -8,6 +8,7 @@
   		<small class="text-muted">Used Car Browser</small>
 	</h1>
 	<h3>{{marca}}, {{modelo}}, {{combustible}}</h3>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
 	<table class="table">
 	  <thead>
 	    <tr>
@@ -32,27 +33,93 @@
 	  <tbody>
 	    {%for result in results%}
 	    	<tr>
-	    		<td>{{result.vehicle_id}}</td>
-	    		<td>{{result.vehiculo}}</td>
-	    		<td>{{result.marca}}</td>
-	    		<td>{{result.modelo}}</td>
-	    		<td>{{result.acabado}}</td>
-	    		<td>{{result.traccion}}</td>
-	    		<td>{{result.precio}}</td>
-	    		<td>{{result.fecha_matriculacion}}</td>
-	    		<td>{{result.combustible}}</td>
-	    		<td>{{result.km}}</td>
-	    		<td>{{result.carroceria}}</td>
-	    		<td>{{result.cambio}}</td>
-	    		<td>{{result.potencia}}</td>
-	    		<td>{{result.garantia}}</td>
-	    		<td>{{result.distintivo_ambiental}}</td>
-	    		<td>{{result.meses}}</td>
+	    		<td>{{result.id}}</td>
+	    		<td>{{result.vehicle}}</td>
+	    		<td>{{result.brand}}</td>
+	    		<td>{{result.model}}</td>
+	    		<td>{{result.grade}}</td>
+	    		<td>{{result.drive}}</td>
+	    		<td>{{result.price}}</td>
+	    		<td>{{result.registration_date}}</td>
+	    		<td>{{result.fuel}}</td>
+	    		<td>{{result.mileage}}</td>
+	    		<td>{{result.body_type}}</td>
+	    		<td>{{result.transmission}}</td>
+	    		<td>{{result.horse_power}}</td>
+	    		<td>{{result.warranty}}</td>
+	    		<td>{{result.eco_label}}</td>
+	    		<td>{{result.months}}</td>
 	    	</tr>
 	    {%endfor%}
 	  </tbody>
 	</table>
+	<canvas id="myChart" width="1112" height="400"></canvas>
+	<script>
+		// Global parameters:
+		// do not resize the chart canvas when its container does (keep at 600x400px)
+		Chart.defaults.global.responsive = false;
+
+		// get chart canvas
+		var ctx = document.getElementById("myChart").getContext("2d");
+
+		// create the chart using the chart canvas
+		var scatterChart = new Chart(ctx, {
+			type: 'scatter',
+			data: {
+				datasets: [{
+					pointBorderColor: "rgba(0, 0, 0, 0.6)",
+			      pointBackgroundColor: "rgba(0, 0, 0, 0.6)",
+			      pointBorderWidth: 1,
+			      pointHoverRadius: 5,
+			      pointHoverBackgroundColor: "rgba(0, 0, 0, 0.9)",
+			      pointHoverBorderColor: "rgba(255, 0, 0, 0.9)",
+			      pointHoverBorderWidth: 3,
+			      pointRadius: 3,
+			      pointHitRadius: 10,
+			      data: [
+			      	{% for result in results %}
+			      	{
+							x:
+			            	{{result.months}},
+							y:
+			            	{{result.price}}
+			         },
+			         {% endfor %}
+					]
+			   }]
+			},
+			options: {
+			   scales: {
+			      xAxes: [{
+			      	scaleLabel: {
+            			display: true,
+            			labelString: 'Months'
+            		},
+			         type: 'linear',
+			         position: 'bottom',
+			         gridLines: { display: false, drawBorder: true }
+			      }],
+			      yAxes: [{
+			      	scaleLabel: {
+            			display: true,
+            			labelString: 'Price'
+            		},
+			      	type: 'linear',
+			         position: 'left',
+			         gridLines: { display: false, drawBorder: true }
+			      }]
+			   },
+            title: {
+                display: true,
+                text: 'Price vs Months'
+            },
+            legend: {
+            	display: false,
+				}
+			}	
+		})	
+  	</script>	
 	<form action="{{url_for('index')}}" method="post">
-		<button class = "btn btn-primary">Back</button>
+		<button class="btn btn-default">Back</button>
 	</form>
 {%endblock%}
