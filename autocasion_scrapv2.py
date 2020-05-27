@@ -19,7 +19,7 @@ import matplotlib as plt
 
 Result=[]
 driver = webdriver.Chrome()
-pages = np.arange(1, 2, 1)
+pages = np.arange(1, 30, 1)
 
 for page in pages:     
     url="https://www.autocasion.com/coches-segunda-mano/nissan-ocasion?page="+str(page)
@@ -27,7 +27,10 @@ for page in pages:
     html_source = driver.page_source
     soup = BeautifulSoup(html_source, 'html.parser')
     for ad in soup.find_all('article', {'class': re.compile('anuncio')}):
-        Result2=[ad.find('h2', {'itemprop': "name"}).text.strip().encode('utf-8')]+[ad.find('span', {'class': "price"}).text.strip().encode('utf-8')]
+        try:
+            Result2=[ad.find('h2', {'itemprop': "name"}).text.strip().encode('utf-8')]+[ad.find('span', {'class': "price"}).text.strip().encode('utf-8')]
+        except AttributeError:
+            Result2=["",float(0)]
         r=ad.find('a', {'href': re.compile('ref')})
         urlv2="https://www.autocasion.com"+str(r['href'])
         driver.get(urlv2)
@@ -106,7 +109,7 @@ for i, row in tf.iterrows():
     try:
         row[11]=float(row[11])
     except:
-        row[11]=""
+        row[11]=float(0)
     if len(row[6])==4:
         row[6]="01/"+row[6]
     else:
