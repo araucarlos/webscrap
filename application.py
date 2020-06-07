@@ -51,8 +51,8 @@ def prediction(model,fuel,months,mileage):
 	x.columns=["months","mileage","price"]
 	x = x.apply(pd.to_numeric, errors='coerce')
 
-	model=Exponential(x[['months','mileage']],x['price'])
-	prediction = model.predictions([float(months)],[float(mileage)])
+	model=Exponential(x[['months']],x['price'])
+	prediction = model.predictions(float(months))
 
 	return jsonify({'prediction':round(prediction[0][0],2)})
 
