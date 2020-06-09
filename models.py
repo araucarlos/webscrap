@@ -31,6 +31,6 @@ class Exponential():
         predictions=func2(x_test['months'], *self.popt)
         self.Rsq=metrics.r2_score(y_test,predictions)        
         
-    def predictions(self,arg):
-        result=func2(pd.DataFrame([arg]), *self.popt)
+    def predictions(self,months):
+        result=func2(pd.DataFrame([months]), *self.popt)
         return result

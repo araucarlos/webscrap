@@ -28,28 +28,33 @@
 			  font-family: Montserrat-Medium;
 			  src: url('/static/fonts/montserrat/Montserrat-Medium.ttf'); 
 			}
+			.container {
+			  padding-right: 15px;
+			  padding-left: 15px;
+			  margin-right: auto;
+			  margin-left: auto;
+			}
 
 			.collapsible {
-				background-color: #eee;
-				color: #444;
-				cursor: pointer;
-				padding: 18px;
-				width: 100%;
-				border: none;
-				text-align: left;
-				outline: none;
-				font-size: 15px;
+			  cursor: pointer;
+			  padding: 18px;
+			  width: 100%;
+			  border: none;
+			  text-align: left;
+			  outline: none;
+			  font-size: 15px;
+			  background: #eeeeee;
 			}
 
 			.active, .collapsible:hover {
-  				background-color: #ccc;
+			  background-color: #ccc;
 			}
 
 			.content {
-  				padding: 0 18px;
- 				display: none;
-  				overflow: hidden;
-  				background-color: #f1f1f1;
+			  padding: 0 18px;
+			  display: none;
+			  overflow: hidden;
+			  background-color: #f1f1f1;
 			}
 		</style>
 		<script>
@@ -75,7 +80,14 @@
 			            let h1HTML = 'Estimated Price : ' + data.prediction + '€'  
 			            prediction.innerHTML = h1HTML;
 			        }
-		      	})
+			    })
+			    const but2 = document.querySelector(".clear");
+		      	but2.addEventListener('click', function() {
+		      		let monthsR = document.getElementById('months');
+		      		monthsR.value = "";
+			        let mileageR = document.getElementById('mileage')
+			        mileageR.value = "";
+			    })
 		    })
 	    </script>
 	</head>
@@ -84,7 +96,7 @@
 			<h1 style= "font-family:Montserrat-Bold">
 		  		Nissan Used Car Browser
 			</h1>
-			<button type="button" id="expand" class="collapsible">Open/Hide Table</button>
+			<button type="button" id="expand" class="collapsible">Open/Hide Results</button>
 			<div class="content">
 				<table class="table" style="width: 100%; height: 100%; table-layout: fixed; word-wrap: break-word; font-size: 12px">
 					<thead>
@@ -231,7 +243,9 @@
 			<div style="font-family:Montserrat-Bold">
 				<input id="months" type="number" placeholder="months"/>
 				<input id="mileage" type="number" placeholder="mileage"/>
-				<button class="predict">Calculate</button>
+				<button class="clear">Clear Contents</button>
+				<br>
+				<button class="predict" style="margin-bottom:10px; margin-top:10px">Get Estimation</button>
 			</div>
 			<div style="padding-top:10px">
 				<p id="prediction" style="font-family:Montserrat-Bold; font-size:15px"></p>
