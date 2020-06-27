@@ -15,12 +15,12 @@ from offers import *
 import csv
 
 app=Flask(__name__)
-app.config["SQLALCHEMY_DATABASE_URI"]="postgresql://postgres:mejor2@localhost:5432/autocasion?client_encoding=utf8"
+app.config["SQLALCHEMY_DATABASE_URI"]="postgresql://postgres:mejor2@localhost:5432/autocasion"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"]= False
 db.init_app(app)
 
 def main():
-	f=open("autocasion.csv")
+	f=open("autocasion220519.csv")
 	reader=csv.reader(f)
 	for id, vehicle, brand, model, grade, drive, price, registration_date, fuel, mileage, body_type, transmission, horse_power, warranty, eco_label, months in reader:
 		if vehicle=="Vehiculo":
